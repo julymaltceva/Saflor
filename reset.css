@@ -89,4 +89,10 @@
 	#main .category {
 		display: none;
 	}
+	#main h2 > span:before {
+    content: url(data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAASCAAAAACbJWSgAAAABGdBTUE…70uqWFFwn6X19m4YEUgdDBp3pQA4UANHBCMRq3tmoysH8ANLHgFEoxbtAAAAAASUVORK5CYII=);
+	}
 }
+
+
+
