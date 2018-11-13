@@ -22,7 +22,7 @@
 }
 
 @media (max-width: 767px) {
-	.container .top-row .logo {
+	.container .top-row .delivery {
     	flex: none;
 	}
 }
