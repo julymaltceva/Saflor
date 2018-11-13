@@ -21,3 +21,8 @@
     }
 }
 
+@media (max-width: 767px) {
+	.container .top-row .logo {
+    	flex: none;
+	}
+}
