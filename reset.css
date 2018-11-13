@@ -108,7 +108,7 @@
 		display: none;
 	}
 	#main .category_title > span::after{
-		display: block;
+		display: inline-block;
 	}
 	#main .category > a {
 		padding: 0;
