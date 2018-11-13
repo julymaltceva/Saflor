@@ -36,17 +36,17 @@
 						<a href="/" target="_blank"><i class="sprite-social sprite-5"></i></a> 
 					</div>  
 				</div>
-				<div class="col-xs-3">  
+				<div class="col-xs-2">  
 					<a class="top-logo" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 						<?php $header_logo = get_theme_mod( 'header_logo' ); if ( ! empty( $header_logo ) ) : ?>
 							<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
 						<?php else : echo esc_attr( get_bloginfo( 'name', 'display' ) ); endif; ?>
 					</a>
 				</div> 
-				<div class="col-12 delivery col-xs-3 d-md-none">  
+				<div class="col-12 delivery col-xs-5 d-md-none">  
 					<p class="top-l-1">Доставка цветов и подарков</p>
 				</div> 
-				<div class="col-md-4 col-xs-3">
+				<div class="col-md-4 col-xs-5">
 					<div class="wrap_head_tel">
 							<a class="reg d-none d-md-block" href="/my-account" class="reg">Регистрация / Вход </a>
 							<a  class="h-tel h-tel-1" href="tel:+74994905002">+7 (499) 490-50-02</a>
