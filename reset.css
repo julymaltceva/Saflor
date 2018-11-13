@@ -119,3 +119,11 @@
 		display: none;
 	}
 }
+
+/*Main*/
+
+@media (min-width: 768px) {
+	#main .category {
+		display: none;
+	}
+}
