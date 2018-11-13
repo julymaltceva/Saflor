@@ -36,7 +36,7 @@
 						<a href="/" target="_blank"><i class="sprite-social sprite-5"></i></a> 
 					</div>  
 				</div>
-				<div class="col-xs-3">  
+				<div class="col-xs-3 logo">  
 					<a class="top-logo" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 						<?php $header_logo = get_theme_mod( 'header_logo' ); if ( ! empty( $header_logo ) ) : ?>
 							<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
