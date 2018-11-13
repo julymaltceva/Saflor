@@ -65,7 +65,7 @@
 		</div>
 
 		<div class="row category">
-			<h2 class="category_title col-xs-5"><span>Букеты</span></h2>
+			<h2 class="category_title"><span>Букеты</span></h2>
 			<div class="col-xs-4"></div>
 			<a href="/product-category/cvety/bukety/" class="activ_cat col-xs-4">Смотреть все</a>
 		</div>
