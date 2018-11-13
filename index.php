@@ -51,10 +51,10 @@
 				<a href="/product-category/novinki/" class="activ_cat">Смотреть все</a>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row gifts_title">
 			<h2 class="no_top_p"><span>Подарки</span></h2>
 		</div>	
-		<div class="row">	
+		<div class="row gifts-item">	
 			<div class="col-12 content_product_new"> 
 				<?php echo do_shortcode( '[product_category category="podarki" per_page="10" columns="1" visibility="featured"] ' ); ?>  
 			</div>
