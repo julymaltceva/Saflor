@@ -75,7 +75,10 @@
 
 @media screen and (max-width: 767px) {
 	.top-row .phone {
-		margin: auto;
+		margin-left: 0;
+    	margin-right: 15px;
+    	margin-top: auto;
+    	margin-bottom: auto;
     	padding: 0;
     	text-align: center;
 	}
