@@ -29,6 +29,12 @@
 	}
 }
 
+@media (max-width: 767px) {
+	.container .top-row {
+		height: auto;
+	}
+}
+
 @media (min-width: 767px) {
 	.col-sm-3 {
     	max-width: 100%;
