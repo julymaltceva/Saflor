@@ -73,6 +73,15 @@
 	#wrapper .wrap_main_slide {
 		padding: 0;
 	}
+	#carouselExampleIndicators .carousel-inner {
+		min-height: 150px;
+	}
+}
+
+@media (min-width: 768px) {
+	#carouselExampleIndicators .carousel-inner > div:nth-child(2) {
+		display: none;
+	}
 }
 
 /*Main*/
