@@ -113,3 +113,9 @@
 		display: none;
 	}
 }
+
+@media (max-width: 767px) {
+	#main .popular_section_title, .popular_section_item, .new_products_title, .new_products_item {
+		display: none;
+	}
+}
