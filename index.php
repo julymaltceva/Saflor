@@ -63,7 +63,6 @@
 				<a href="/product-category/podarki/" class="activ_cat">Смотреть все</a>
 			</div>
 		</div>
-		
 		<div class="row">
 			<h2 class="h_c_form"><span>Индивидуальный букет</span></h2>
 		</div>	
