@@ -22,6 +22,12 @@
 	}
 }
 
+@media (max-width: 767px) {
+	.col-xs-6 {
+		width: 50%;
+	}
+}
+
 /*Заголовок*/
 
 @media (max-width: 767px) {
