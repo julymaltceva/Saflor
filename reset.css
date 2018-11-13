@@ -102,3 +102,8 @@
     }
 }
 
+@media (max-width: 767px) {
+	#carouselExampleIndicators .carousel-caption .link_slide {
+		display: none;
+	}
+}
