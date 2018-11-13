@@ -3316,11 +3316,11 @@ ul.wrap_category li{
 	.wrap_main_slide { padding: 23px 0 15px; }
 	.wrap_to_icon .top_icon { width:50% !important;padding-right: 5px; margin-bottom: 12px; }
 	h2:before, h2:after,.home h2:before,.home h2:after {display:none;}
-	.home h2 span::before{
+	/*.home h2 span::before{
 		content: '';
 		margin:0;
 	}
-	/*.home h2 span:after {
+	.home h2 span:after {
 		content: '';
 		margin:0;
 	}*/
