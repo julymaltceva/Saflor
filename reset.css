@@ -1,5 +1,13 @@
+.col-xs-2 {
+	width: 16.5%;
+}
+
 .col-xs-3 {
 	width: 25%;
+}
+
+.col-xs-4 {
+	width: 33%;
 }
 
 @media (max-width: 767px) {
