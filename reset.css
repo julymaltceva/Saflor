@@ -1,3 +1,7 @@
+.col-xs-3 {
+	width: 25%;
+}
+
 @media (max-width: 767px) {
 	.container {
     	max-width: 100%;
@@ -16,3 +20,4 @@
     	width: 75px;
     }
 }
+
