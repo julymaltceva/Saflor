@@ -56,3 +56,11 @@
     	width: 100%;
 	}
 }
+
+@media (max-width: 767px) {
+	.container .top-row .phone .wrap_head_tel .h-tel {
+    	background: none;
+    	padding-left: 0;
+    	font-size: 12px;
+    }
+}
