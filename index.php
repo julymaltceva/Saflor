@@ -44,7 +44,7 @@
 			<h2 class="h-nopadding" ><span>Новинки</span></h2>
 		</div>
 		<div class="row new_products_item">		
-			<div class="col-12 content_product_new">
+			<div class="col-12 content_product_new second_slider">
 				<?php echo do_shortcode( '[product_category category="novinki" per_page="10" columns="1"] ' ); ?>  
 			</div>	
 			<div class="col-12">
@@ -55,7 +55,7 @@
 			<h2 class="no_top_p"><span>Подарки</span></h2>
 		</div>	
 		<div class="row gifts_item">	
-			<div class="col-12 content_product_new"> 
+			<div class="col-12 content_product_new second_slider"> 
 				<?php echo do_shortcode( '[product_category category="podarki" per_page="10" columns="1" visibility="featured"] ' ); ?>  
 			</div>
  
@@ -69,8 +69,8 @@
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 
-		<div class="col-12 category products_new"> 
-				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="2"] ' ); ?>  
+		<div class="col-12 content_product_new"> 
+				<?php echo do_shortcode( '[product_category category="bukety" per_page="10" columns="1"] ' ); ?>  
 			</div>
 		
 		<div class="row">
@@ -102,7 +102,7 @@
 	 <script>
 		jQuery(document).ready(function(){
 			
-			  jQuery(".content_product_new .main_slider").slick({
+			  jQuery(".second_slider .main_slider").slick({
 				dots: false,
 				infinite: false,
 				slidesToShow: 4,
