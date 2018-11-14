@@ -71,7 +71,9 @@
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
 		</div>
-		<a href="/product-category/cvety/bukety/" class="col-xs-12 activ_cat category">Смотреть все Букеты</a>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты</a>
+		</div>
 		
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Монобукеты<i></i></h1>
