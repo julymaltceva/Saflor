@@ -138,6 +138,22 @@
     	float: none;
     	width: 110px;
 	}
+	#main .col-xs-12 .activ_cat {
+    	float: none;
+    	width: 80%;
+    	display: inline-block;
+    	background: none;
+    	font-size: 24px;
+    	padding-right: 0;
+    	text-align: center;
+    	text-transform: inherit;
+    }
+	#main .col-xs-12 .fa {
+        color: rgb(166, 119, 181);
+        font-size: 24px;
+    	width: 15%;
+    	text-align: center;
+    }
 }
 
 @media (max-width: 767px) {		
@@ -195,12 +211,20 @@
     }
 	#main .col-xs-12 .activ_cat {
     	float: none;
-    	width: 50%;
+    	width: 70%;
     	display: inline-block;
     	background: none;
+    	font-size: 36px;
+    	padding-right: 0;
+    	text-align: center;
+    	letter-spacing: 5px;
+    	text-transform: inherit;
     }
 	#main .col-xs-12 .fa {
         color: rgb(166, 119, 181);
+        font-size: 36px;
+    	width: 25%;
+    	text-align: left;
     }
 }
 
