@@ -90,12 +90,13 @@
 	#main .category {
 		display: none;
 	}
+
 }
 @media (max-width: 767px) {		
 	#main .popular_section_title, .popular_section_item, .new_products_title, .new_products_item, .gifts_title, .gifts_item {
 		display: none;
 	}
-	#main .category_title {
+	/*#main .category_title {
 		padding: 0;
 		width: 67%;
 	}
@@ -109,7 +110,7 @@
 	}
 	#main .category_title > span::after{
 		display: inline-block;
-	}
+	}*/
 	#main .category > a {
 		padding: 0;
     	margin: auto;
