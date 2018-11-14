@@ -69,8 +69,8 @@
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 
-		<div class="col-12 category content_product_new"> 
-				<?php echo do_shortcode( '[product_category category="bukety" per_page="10" columns="1" visibility="featured"] ' ); ?>  
+		<div class="col-12 category products_new"> 
+				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="2"] ' ); ?>  
 			</div>
 		
 		<div class="row">
