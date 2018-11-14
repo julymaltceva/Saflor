@@ -123,7 +123,7 @@
 	}	
 	#main .col-xs-12 .activ_cat {
     	float: none;
-    	width: 70%;
+    	width: 100%;
     	display: inline-block;
     	background: none;
     	font-size: 36px;
@@ -135,7 +135,6 @@
 	#main .col-xs-12 .fa {
         color: rgb(166, 119, 181);
         font-size: 36px;
-    	width: 25%;
     	text-align: left;
     }
 }
@@ -156,7 +155,7 @@
 	}
 	#main .col-xs-12 .activ_cat {
     	float: none;
-    	width: 80%;
+    	width: 100%;
     	display: inline-block;
     	background: none;
     	font-size: 24px;
@@ -167,7 +166,6 @@
 	#main .col-xs-12 .fa {
         color: rgb(166, 119, 181);
         font-size: 24px;
-    	width: 15%;
     	text-align: center;
     }
 }
