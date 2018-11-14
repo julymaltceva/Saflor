@@ -68,6 +68,10 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
+
+		<div class="col-12 category content_product_new"> 
+				<?php echo do_shortcode( '[product_category category="bukety" per_page="10" columns="1" visibility="featured"] ' ); ?>  
+			</div>
 		
 		<div class="row">
 			<h2 class="h_c_form"><span>Индивидуальный букет</span></h2>
