@@ -65,10 +65,10 @@
 		</div>
 
 		<div class="row category">
-			<h2 class="category_title"><span>Букеты</span></h2>
+			<h1 class="category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
 			<a href="/product-category/cvety/bukety/" class="activ_cat col-xs-4">Смотреть все</a>
 		</div>
-
+		
 		<div class="row">
 			<h2 class="h_c_form"><span>Индивидуальный букет</span></h2>
 		</div>	
