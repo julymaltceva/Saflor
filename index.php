@@ -73,6 +73,7 @@
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты</a>
+			<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
 		</div>
 		
 		<div class="row category">
