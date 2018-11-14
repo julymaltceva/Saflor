@@ -115,13 +115,17 @@
 @media (max-width: 520px) {
 	#main .clickBuyButton {
 		margin-top: 20px;
+		margin-left: auto;
+    	margin-right: auto;
+
 	}
 	#main .add_to_cart_button {
-    	margin-top: 35px;
-    	margin-bottom: 20px;
+		margin-top: 5px;
+    	margin-bottom: 0px;
     	margin-left: auto;
     	margin-right: auto;
     	float: none;
+    	width: 110px;
 	}
 }
 
