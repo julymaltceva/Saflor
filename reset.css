@@ -197,6 +197,10 @@
     	float: none;
     	width: 100%;
     	display: inline-block;
+    	background: none;
+    }
+	#main .col-xs-12 .fa {
+        color: rgb(166, 119, 181);
     }
 }
 
