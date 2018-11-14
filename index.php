@@ -76,6 +76,8 @@
 				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
 			</a>
 		</div>
+
+		<div class="icons top_icon tp-1"><i></i><span>БЕСПЛАТНАЯ доставка</span></div>
 		
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Монобукеты<i></i></h1>
