@@ -102,24 +102,21 @@
 	#main .popular_section_title, .popular_section_item, .new_products_title, .new_products_item, .gifts_title, .gifts_item {
 		display: none;
 	}
-	/*#main .category_title {
-		padding: 0;
-		width: 67%;
-	}
-	#main .category_title > span {
-		float: left;
+	#main .category_title {
+		margin-left: 15px;
+    	margin-top: 0;
+    	margin-bottom: 0;
     	font-family: "PFDinTextCompPro";
-    	margin-left: 15px;
-    }
-	#main .category_title > span::before{
-		display: none;
 	}
-	#main .category_title > span::after{
-		display: inline-block;
-	}*/
+	#main .category > h1 > i {
+		margin-left: -15px;
+    	margin-right: -15px;
+	}
 	#main .category > a {
-		padding: 0;
-    	margin: auto;
+		margin-top: 0;
+    	margin-bottom: 0;
+    	text-align: right;
+    	font-size: 16px;
 	}
 }
 
