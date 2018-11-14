@@ -161,6 +161,9 @@
 	#main .wrap_exept {
     	height: 85px;
     }
+	#main .clickBuyButton {
+		margin-top: 20px;
+	}
 }
 
 
