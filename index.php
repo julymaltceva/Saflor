@@ -70,7 +70,7 @@
 		</div>
 
 		<div class="col-12 content_product_new"> 
-				<?php echo do_shortcode( '[product_category category="bukety" per_page="10" columns="1"] ' ); ?>  
+				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
 			</div>
 		
 		<div class="row">
