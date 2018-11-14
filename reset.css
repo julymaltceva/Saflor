@@ -131,6 +131,8 @@
     	text-align: center;
     	letter-spacing: 5px;
     	text-transform: inherit;
+    	border: 1px solid;
+    	padding: 10px 0;
     }
 	#main .col-xs-12 .fa {
         color: rgb(166, 119, 181);
@@ -162,6 +164,8 @@
     	padding-right: 0;
     	text-align: center;
     	text-transform: inherit;
+    	border: 1px solid;
+    	padding: 10px 0;
     }
 	#main .col-xs-12 .fa {
         color: rgb(166, 119, 181);
