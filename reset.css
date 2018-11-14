@@ -108,6 +108,9 @@
 	#main .category {
 		display: none;
 	}
+	#main .icons {
+		display: none;
+	}
 }
 
 @media (min-width: 521px) and (max-width: 767px) {	
@@ -226,6 +229,39 @@
 	}
 	#main .wrap_exept {
     	height: 80px;
+    }
+    #main .tp-1 {
+    width: 100%;
+	}
+	#main .top_icon {
+    height: 70px;
+	}
+	#main .tp-1 > i {
+	    background-image: url(/wp-content/themes/main/images/icon1.png);
+	}
+	#main .top_icon > i {
+    	display: block;
+    	height: 70px;
+    	width: 70px;
+    	-webkit-border-radius: 29px;
+    	-moz-border-radius: 29px;
+    	border-radius: 29px;
+    	float: left;
+    	margin-right: 21px;
+    	background-repeat: no-repeat;
+    	background-position: center center;
+    	line-height: 70px;
+    }
+    #main .top_icon > span {
+    	font-size: 18px;
+    	font-family: "PFDinTextCondPro";
+    	color: rgb(0, 0, 0);
+    	text-align: left;
+    	line-height: 70px;
+    	display: block;
+    	vertical-align: middle;
+    	letter-spacing: 0.3px;
+    	position: relative;
     }
 }
 
