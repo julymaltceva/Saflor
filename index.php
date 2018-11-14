@@ -65,8 +65,8 @@
 		</div>
 
 		<div class="row category">
-			<h1 class="category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
-			<a href="/product-category/cvety/bukety/" class="activ_cat col-xs-4">Смотреть все</a>
+			<h1 class="col-xs-6 category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
+			<a href="/product-category/cvety/bukety/" class="col-xs-5 activ_cat">Смотреть все</a>
 		</div>
 		
 		<div class="row">
