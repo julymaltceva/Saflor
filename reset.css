@@ -146,6 +146,12 @@
 	#main .wrap-main-card {
 		width: 50%;
 	}
+	#main .wrap_hide_but {
+		text-align: center;
+	}
+	#main.add_to_cart_button {
+    margin: 35px 15px 20px 0;
+    float: none;
 }
 
 
