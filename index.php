@@ -68,15 +68,16 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
 		</div>
+		<a href="/product-category/cvety/bukety/" class="col-xs-12 activ_cat category">Смотреть все Букеты</a>
 		
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Монобукеты<i></i></h1>
 			<a href="/product-category/cvety/monobukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="monobukety" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
@@ -84,7 +85,7 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в шляпных коробках<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="cvety-v-shljapnyh-korobkah" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
@@ -92,7 +93,7 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в корзинах<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-korzinah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="cvety-v-korzinah" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
@@ -100,7 +101,7 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Ароматы для дома<i></i></h1>
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
@@ -108,7 +109,7 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Подарки<i></i></h1>
 			<a href="/product-category/cvety/podarki/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new"> 
+		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="podarki" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
