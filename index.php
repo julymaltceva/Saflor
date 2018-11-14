@@ -84,6 +84,11 @@
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="monobukety" per_page="6" columns="1"] ' ); ?>  
 		</div>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/monobukety/" class="activ_cat">Смотреть все Монобукеты
+				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+			</a>
+		</div>
 
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в шляпных коробках<i></i></h1>
@@ -91,6 +96,11 @@
 		</div>
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="cvety-v-shljapnyh-korobkah" per_page="6" columns="1"] ' ); ?>  
+		</div>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="activ_cat">Смотреть все Цветы в шляпных коробках
+				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+			</a>
 		</div>
 
 		<div class="row category">
@@ -100,6 +110,11 @@
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="cvety-v-korzinah" per_page="6" columns="1"] ' ); ?>  
 		</div>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/cvety-v-korzinah/" class="activ_cat">Смотреть все Цветы в корзинах
+				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+			</a>
+		</div>
 
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Ароматы для дома<i></i></h1>
@@ -108,6 +123,11 @@
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  
 		</div>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/aromaty-dlja-doma/" class="activ_cat">Смотреть все Ароматы для дома
+				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+			</a>
+		</div>
 
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Подарки<i></i></h1>
@@ -115,6 +135,11 @@
 		</div>
 		<div class="col-12 content_product_new category"> 
 				<?php echo do_shortcode( '[product_category category="podarki" per_page="6" columns="1"] ' ); ?>  
+		</div>
+		<div class="col-xs-12 category">
+			<a href="/product-category/cvety/podarki/" class="activ_cat">Смотреть все Подарки
+				<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+			</a>
 		</div>
 
 		<div class="row">
