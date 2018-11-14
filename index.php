@@ -96,6 +96,22 @@
 				<?php echo do_shortcode( '[product_category category="cvety-v-korzinah" per_page="6" columns="1"] ' ); ?>  
 		</div>
 
+		<div class="row category">
+			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Ароматы для дома<i></i></h1>
+			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
+		</div>
+		<div class="col-12 content_product_new"> 
+				<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  
+		</div>
+
+		<div class="row category">
+			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Подарки<i></i></h1>
+			<a href="/product-category/cvety/podarki/" class="col-xs-4 activ_cat">Смотреть все</a>
+		</div>
+		<div class="col-12 content_product_new"> 
+				<?php echo do_shortcode( '[product_category category="podarki" per_page="6" columns="1"] ' ); ?>  
+		</div>
+
 		<div class="row">
 			<h2 class="h_c_form"><span>Индивидуальный букет</span></h2>
 		</div>	
