@@ -319,6 +319,15 @@
 	#footer .h-tel {
     	display: block;
 	}
+	#footer .f-menu-1 {
+		display: none;
+	}
+	#footer .f-menu-2 {
+		display: none;
+	}
+	#footer .f-menu-3 {
+		display: none;
+	}
 }
 
 @media (max-width: 767px) {	
@@ -347,5 +356,40 @@
 	}
 	#footer .text-2 {
 		line-height: 18px;
+	}
+	#footer .f-menu {
+		display: none;
+	}
+	#footer .f-menu-1 {
+		padding: 0;
+    	margin: 0;
+    	list-style-type: none;
+	}
+	#footer .f-menu-2 {
+		padding: 0;
+    	margin: 0;
+    	list-style-type: none;
+	}
+	#footer .f-menu-3 {
+		padding: 0;
+    	margin: 0;
+    	list-style-type: none;
+	}
+	#footer .f-menu-1 > li {
+		display: block;
+	}
+	#footer .f-menu-2 > li {
+		display: block;
+	}
+	#footer .f-menu-3 > li {
+		display: block;
+	}
+	#footer .f-menu-1 > li > a {
+		font-size: 18px;
+	    font-family: "PFDinTextCompPro-Medium";
+    	color: rgb(0, 0, 0);
+	    text-transform: uppercase;
+	    padding: 20px 0;
+	    letter-spacing: 0.8px;
 	}
 }
