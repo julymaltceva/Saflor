@@ -298,5 +298,17 @@
     }
 }
 
+/*Подвал*/
+
+#footer .top-footer {
+	margin: 0 auto;
+}
+#footer .footer-menu {
+	width: 75%;
+}
+#footer .footer-menu > div {
+	display: inline-block;
+    vertical-align: top;
+}
 
 
