@@ -372,11 +372,11 @@
 		display: block;
 	}
 	#footer .foot > li > a {
-		font-size: 18px;
+		font-size: 15px;
 	    font-family: "PFDinTextCompPro-Medium";
     	color: rgb(0, 0, 0);
 	    text-transform: uppercase;
-	    padding: 20px 0;
+	    padding: 0;
 	    letter-spacing: 0.8px;
 	}
 }
