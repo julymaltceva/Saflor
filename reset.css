@@ -332,7 +332,7 @@
 
 @media (max-width: 767px) {	
 	#footer .footer-menu {
-		width: 50% !important;
+		width: 66.6% !important;
 	}
 	#footer .footer-logo {
 		display: none;
@@ -347,7 +347,7 @@
 		padding: 0;
 	}
 	#footer .h-tel {
-	    font-size: 22px;
+	    font-size: 15px;
 	    padding: 0;
     	line-height: 1.2;
 	}
