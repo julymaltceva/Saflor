@@ -31,6 +31,20 @@
 				<div class="footer-menu col-xs-6">
 					<div class="col-md-3">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-l', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
+						<ul id="menu-futer-centr" class="f-menu">
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1104" class="bold menu-item menu-item-type-taxonomy menu-item-object-product_cat nav-item menu-item-1104">
+								<a title="Цветы" href="https://sa-flor.ru/product-category/cvety/" class="nav-link">Цветы</a>
+							</li>
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3617" class="bold menu-item menu-item-type-taxonomy menu-item-object-product_cat nav-item menu-item-3617">
+								<a title="Ароматы для дома" href="https://sa-flor.ru/product-category/aromaty-dlja-doma/" class="nav-link">Ароматы для дома</a>
+							</li>
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1123" class="bold menu-item menu-item-type-taxonomy menu-item-object-product_cat nav-item menu-item-1123">
+								<a title="Свадебная флористика" href="https://sa-flor.ru/product-category/svadebnaja-floristika/" class="nav-link">Свадебная флористика</a>
+							</li>
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1134" class="bold menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-1134">
+								<a title="Услуги" href="#" class="nav-link">Услуги</a>
+							</li>
+						</ul>
 					</div>
 					<div class="col-md-3">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-c', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
