@@ -334,4 +334,7 @@
 	#footer .footer-info {
 		padding: 0;
 	}
+	#footer .h-tel {
+	    font-size: 22px;
+	}
 }
