@@ -45,7 +45,12 @@
 							<a href="https://www.facebook.com/saflor.saflor.1" target="_blank"><i class="sprite-social sprite-3"></i></a> 
 							<!--a href="/"><i class="sprite-social sprite-4"></i></a--> 
 							<!--a href="/" target="_blank"><i class="sprite-social sprite-5"></i></a--> 
-						</div> 
+						</div>
+						<ul id="menu-futer-levoe" class="foot f-menu-3">
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-71" class="bold menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-71">
+								<a title="Кабинет покупателя" href="https://sa-flor.ru/my-account/" class="nav-link">Кабинет покупателя</a>
+							</li>
+						</ul> 
 					</div>
 				</div>
 			</div>
