@@ -5,7 +5,7 @@
 	<footer id="footer">
 		<div class="container">
 			<div class="row top-footer">
-				<div class="col-md-3 col-xs-6">
+				<div class="footer-info col-md-3 col-xs-6">
 						<a class="footer-logo" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 							<?php $header_logo = get_theme_mod( 'header_logo' ); if ( ! empty( $header_logo ) ) : ?>
 								<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
