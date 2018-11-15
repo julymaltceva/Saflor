@@ -305,6 +305,7 @@
 }
 #footer .footer-menu {
 	width: 75%;
+	text-align: left;
 }
 #footer .footer-menu > div {
 	display: inline-block;
