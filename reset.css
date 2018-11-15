@@ -331,4 +331,7 @@
 	#footer .f-l-icon {
 		display: none;
 	}
+	#footer .footer-info {
+		padding: 0;
+	}
 }
