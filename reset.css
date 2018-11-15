@@ -316,6 +316,9 @@
 	#footer .text-2 {
 		display: none;
 	}
+	#footer .h-tel {
+    	display: block;
+	}
 }
 
 @media (max-width: 767px) {	
@@ -338,5 +341,6 @@
 	    font-size: 22px;
 	    padding: 0;
     	line-height: 1.2;
+    	display: inline-block;
 	}
 }
