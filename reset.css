@@ -336,5 +336,7 @@
 	}
 	#footer .h-tel {
 	    font-size: 22px;
+	    padding: 0;
+    	line-height: 1.2;
 	}
 }
