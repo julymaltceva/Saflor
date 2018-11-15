@@ -267,7 +267,9 @@
     	width: 55%;
     	height: 100%;
     }
-    #main
+    #main .tp-2 > i {
+	    background-image: url(/wp-content/themes/main/images/icon2.png);
+	}
 }
 
 
