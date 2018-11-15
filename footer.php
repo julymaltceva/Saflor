@@ -5,7 +5,7 @@
 	<footer id="footer">
 		<div class="container">
 			<div class="row top-footer">
-				<div class="footer-info col-md-3 col-xs-6">
+				<div class="footer-info col-md-3 col-xs-4">
 						<a class="footer-logo" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 							<?php $header_logo = get_theme_mod( 'header_logo' ); if ( ! empty( $header_logo ) ) : ?>
 								<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
@@ -28,7 +28,7 @@
 							© 2018
 						</p>
 				</div>
-				<div class="footer-menu col-xs-6">
+				<div class="footer-menu col-xs-8">
 					<div class="col-md-3">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-l', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
 						<ul id="menu-futer-centr" class="foot f-menu-1">
