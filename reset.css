@@ -187,6 +187,9 @@
 }
 
 @media (max-width: 767px) {		
+	#main {
+		padding-bottom: 15px;
+	}
 	#main .popular_section_title, .popular_section_item, .new_products_title, .new_products_item, .gifts_title, .gifts_item {
 		display: none;
 	}
