@@ -292,6 +292,10 @@
 		margin-left: 15px;
     	margin-right: 15px;
 	}
+	#main .delivery > h2 {
+	    margin: 0 65px;
+    	padding: 0;
+    }
 }
 
 
