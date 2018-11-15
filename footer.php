@@ -48,6 +48,14 @@
 					</div>
 					<div class="col-md-3">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-c', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
+						<ul id="menu-futer-pravoe" class="foot f-menu-3">
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1136" class="bold menu-item menu-item-type-taxonomy menu-item-object-product_cat nav-item menu-item-1136">
+								<a title="Подарки" href="https://sa-flor.ru/product-category/podarki/" class="nav-link">Подарки</a>
+							</li>
+							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1148" class="bold menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-1148">
+								<a title="Корпоративным клиентам" href="https://sa-flor.ru/korporativnym-klientam/" class="nav-link">Корпоративным клиентам</a>
+							</li>
+						</ul>
 					</div>
 					<div class="col-md-3 f-right">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-b', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
