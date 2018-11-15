@@ -20,7 +20,7 @@
 							<!--a href="/"><i class="tel"></i></a>
 							<a href="/"><i class="messenger"></i></a-->
 						</div>
-						<a  class="h-tel" href="tel:+74994905002">+7 (499) 490-50-02</a><br>
+						<a  class="h-tel" href="tel:+74994905002">+7 (499) 490-50-02</a>
 						<a  class="h-tel" href="tel:+79855592500">+7 (985) 559-25-00</a>
 						<a href="#contact_form_pop" class="active_form fancybox-inline"> Заказать звонок</a>
 						<p class="f-l-text text-2">Saflor Flowers<br/>
