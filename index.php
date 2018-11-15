@@ -137,6 +137,8 @@
 			</a>
 		</div>
 
+		<div class="icons top_icon tp-5"><i></i><span>100% ГАРАНТИЯ свежести цветов</span></div>
+
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Подарки<i></i></h1>
 			<a href="/product-category/cvety/podarki/" class="col-xs-4 activ_cat">Смотреть все</a>
