@@ -5,7 +5,7 @@
 	<footer id="footer">
 		<div class="container">
 			<div class="row top-footer">
-				<div class="col-md-3">
+				<div class="col-md-3 col-xs-6">
 						<a class="footer-logo" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 							<?php $header_logo = get_theme_mod( 'header_logo' ); if ( ! empty( $header_logo ) ) : ?>
 								<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
@@ -24,23 +24,25 @@
 						<a  class="h-tel" href="tel:+79855592500">+7 (985) 559-25-00</a>
 						<a href="#contact_form_pop" class="active_form fancybox-inline"> Заказать звонок</a>
 				</div>
-				<div class="col-md-3">
-					<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-l', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
-				</div>
-				<div class="col-md-3">
-					<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-c', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
-				</div>
-				<div class="col-md-3 f-right">
-					<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-b', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
+				<div class="footer-menu col-xs-6">
+					<div class="col-md-3">
+						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-l', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
+					</div>
+					<div class="col-md-3">
+						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-c', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
+					</div>
+					<div class="col-md-3 f-right">
+						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-b', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
 					
-					<div class="wrap-icons">
-						<h5>присоединяйтесь к нам</h5>
-						<a href="https://www.instagram.com/saflorflowers/?hl=ru" target="_blank"><i class="sprite-social sprite-1"></i></a>
-						<!--a href="/" target="_blank"><i class="sprite-social sprite-2"></i></a-->
-						<a href="https://www.facebook.com/saflor.saflor.1" target="_blank"><i class="sprite-social sprite-3"></i></a> 
-						<!--a href="/"><i class="sprite-social sprite-4"></i></a--> 
-						<!--a href="/" target="_blank"><i class="sprite-social sprite-5"></i></a--> 
-					</div> 
+						<div class="wrap-icons">
+							<h5>присоединяйтесь к нам</h5>
+							<a href="https://www.instagram.com/saflorflowers/?hl=ru" target="_blank"><i class="sprite-social sprite-1"></i></a>
+							<!--a href="/" target="_blank"><i class="sprite-social sprite-2"></i></a-->
+							<a href="https://www.facebook.com/saflor.saflor.1" target="_blank"><i class="sprite-social sprite-3"></i></a> 
+							<!--a href="/"><i class="sprite-social sprite-4"></i></a--> 
+							<!--a href="/" target="_blank"><i class="sprite-social sprite-5"></i></a--> 
+						</div> 
+					</div>
 				</div>
 			</div>
 			<a href="//unicoweb.ru/" target="_blank" class="development">Разработка сайта: UNICO</a> 
