@@ -355,7 +355,7 @@
 		padding: 0 0 10px 0;
 	}
 	#footer .text-2 {
-		line-height: 18px;
+		line-height: 14px;
 	}
 	#footer .f-menu {
 		display: none;
@@ -379,4 +379,8 @@
 	    padding: 0;
 	    letter-spacing: 0.8px;
 	}
+	#footer .active_form {
+	    padding: 0;
+    	margin: 5px 0;
+    }
 }
