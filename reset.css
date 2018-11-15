@@ -311,7 +311,23 @@
     vertical-align: top;
 }
 
+@media (min-width: 768px) {	
+	#footer .text-2 {
+		display: none;
+	}
+}
+
 @media (max-width: 767px) {	
 	#footer .footer-menu {
 		width: 50% !important;
 	}
+	#footer .footer-logo {
+		display: none;
+	}
+	#footer .text-1 {
+		display: none;
+	}
+	#footer .f-l-icon {
+		display: none;
+	}
+}
