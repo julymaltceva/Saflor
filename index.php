@@ -107,6 +107,8 @@
 			</a>
 		</div>
 
+		<div class="icons top_icon tp-3"><i></i><span>Все способы ОПЛАТЫ</span></div>
+
 		<div class="row category">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в корзинах<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-korzinah/" class="col-xs-4 activ_cat">Смотреть все</a>
