@@ -31,7 +31,7 @@
 				<div class="footer-menu col-xs-6">
 					<div class="col-md-3">
 						<?php wp_nav_menu( array( 'theme_location'  => 'footer-menu-l', 'container' => '', 'menu_class' => 'f-menu', 'fallback_cb' => 'WP_Bootstrap_Navwalker::fallback', 'walker'  => new WP_Bootstrap_Navwalker(), ) ); ?>
-						<ul id="menu-futer-centr" class="f-menu">
+						<ul id="menu-futer-centr" class="foot f-menu-1">
 							<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1104" class="bold menu-item menu-item-type-taxonomy menu-item-object-product_cat nav-item menu-item-1104">
 								<a title="Цветы" href="https://sa-flor.ru/product-category/cvety/" class="nav-link">Цветы</a>
 							</li>
