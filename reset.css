@@ -345,4 +345,7 @@
 	#footer .menu-futer-levoe > li > a {
 		padding: 0 0 10px 0;
 	}
+	#footer .text-2 {
+		line-height: 18px;
+	}
 }
