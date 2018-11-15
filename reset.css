@@ -360,31 +360,15 @@
 	#footer .f-menu {
 		display: none;
 	}
-	#footer .f-menu-1 {
+	#footer .foot {
 		padding: 0;
     	margin: 0;
     	list-style-type: none;
 	}
-	#footer .f-menu-2 {
-		padding: 0;
-    	margin: 0;
-    	list-style-type: none;
-	}
-	#footer .f-menu-3 {
-		padding: 0;
-    	margin: 0;
-    	list-style-type: none;
-	}
-	#footer .f-menu-1 > li {
+	#footer .foot > li {
 		display: block;
 	}
-	#footer .f-menu-2 > li {
-		display: block;
-	}
-	#footer .f-menu-3 > li {
-		display: block;
-	}
-	#footer .f-menu-1 > li > a {
+	#footer .foot > li > a {
 		font-size: 18px;
 	    font-family: "PFDinTextCompPro-Medium";
     	color: rgb(0, 0, 0);
