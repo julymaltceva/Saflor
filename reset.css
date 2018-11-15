@@ -181,6 +181,9 @@
     #main .tp-4 > span {
     	line-height: 25px !important;
     }
+    #main .tp-5 > span {
+    	line-height: 35px !important;
+    }
 }
 
 @media (max-width: 767px) {		
