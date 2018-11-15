@@ -11,7 +11,7 @@
 								<img src="<?php echo esc_url( $header_logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" />
 							<?php else : echo esc_attr( get_bloginfo( 'name', 'display' ) ); endif; ?>
 						</a>
-						<p class="f-l-text">Saflor Flowers<br/>
+						<p class="f-l-text text-1">Saflor Flowers<br/>
 							Интернет-магазин цветов и подарков<br/>
 							© 2018
 						</p>
@@ -23,6 +23,10 @@
 						<a  class="h-tel" href="tel:+74994905002">+7 (499) 490-50-02</a><br>
 						<a  class="h-tel" href="tel:+79855592500">+7 (985) 559-25-00</a>
 						<a href="#contact_form_pop" class="active_form fancybox-inline"> Заказать звонок</a>
+						<p class="f-l-text text-2">Saflor Flowers<br/>
+							Интернет-магазин цветов и подарков<br/>
+							© 2018
+						</p>
 				</div>
 				<div class="footer-menu col-xs-6">
 					<div class="col-md-3">
