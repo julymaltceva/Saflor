@@ -192,6 +192,9 @@
     	height: 45px;
     	font-size: 11px;
     }
+	#main .wrap_post_thumb > img {
+    max-height: 128px;
+	}
 }
 
 @media (max-width: 767px) {		
@@ -243,7 +246,7 @@
 		width: 100%;
 	}
 	#main .wrap-woo > img {
-		padding-bottom: 15px !important;
+		padding-bottom: 15px;
 	}
 	#main .wrap-main-card {
 		width: 50%;
