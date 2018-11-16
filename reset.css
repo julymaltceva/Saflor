@@ -299,6 +299,10 @@
 	    margin: 0 65px;
     	padding: 0;
     }
+    #main .wrap_delivery > p {
+    	margin: 0;
+    	height: 10px;
+    }
 }
 
 /*Подвал*/
