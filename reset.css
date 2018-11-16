@@ -227,8 +227,9 @@
 		overflow: hidden;
 	}
 	#main .wrap_post_thumb > img {
-		max-width: 90%;
-		height: 115px;
+		    width: 100%;
+    	height: auto;
+    	max-height: 300px;
 	}
 	#main .wrap-woo {
 		width: 100%;
