@@ -235,12 +235,15 @@
 		overflow: hidden;
 	}
 	#main .wrap_post_thumb > img {
-		    width: 100%;
+		width: 100%;
     	height: auto;
     	max-height: 300px;
 	}
 	#main .wrap-woo {
 		width: 100%;
+	}
+	#main .wrap-woo > img {
+		padding-bottom: 15px;
 	}
 	#main .wrap-main-card {
 		width: 50%;
