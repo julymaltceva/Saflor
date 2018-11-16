@@ -115,14 +115,12 @@
 
 @media (min-width: 521px) and (max-width: 767px) {	
 	#main .clickBuyButton {
-		margin-top: 35px;
+		float: none;
+    	margin: 10px;
 	}
 	#main .add_to_cart_button {
-		margin-top: 35px;
-    	margin-bottom: 20px;
-    	margin-left: auto;
-    	margin-right: auto;
-		float: right;
+		float: none;
+    	margin: 10px;
 	}	
 	#main .col-xs-12 .activ_cat {
     	float: none;
