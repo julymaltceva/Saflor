@@ -146,6 +146,11 @@
     	height: 80px;
     	padding-top: 20px;
     }
+    #main .wrap_post_thumb > img {
+		width: 100%;
+    	height: auto;
+    	max-height: 300px;
+	}
 }
 
 @media (max-width: 520px) {
@@ -193,7 +198,9 @@
     	font-size: 11px;
     }
 	#main .wrap_post_thumb > img {
-    max-height: 128px;
+    	width: 100%;
+    	height: auto;
+    	max-height: 128px;
 	}
 }
 
@@ -236,11 +243,6 @@
 	#main .wrap_post_thumb {
 		position: relative; 
 		overflow: hidden;
-	}
-	#main .wrap_post_thumb > img {
-		width: 100%;
-    	height: auto;
-    	max-height: 300px;
 	}
 	#main .wrap-woo {
 		width: 100%;
