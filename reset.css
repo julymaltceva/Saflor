@@ -96,12 +96,6 @@
 	}
 }
 
-@media (min-width: 768px) {
-	#carouselExampleIndicators .carousel-inner > div:nth-child(2) {
-		display: none;
-	}
-}
-
 /*Main*/
 
 @media (min-width: 768px) {
@@ -117,6 +111,8 @@
 	#main .clickBuyButton {
 		float: none;
     	margin: 10px;
+    	border: none;
+    	margin-bottom: 13px;
 	}
 	#main .add_to_cart_button {
 		float: none;
@@ -149,6 +145,13 @@
     	height: auto;
     	max-height: 300px;
 	}
+	#main .wrap-main-card > div {
+		padding: 5px 10px 55px;
+    	height: auto;
+    	margin: 5px auto;
+    	border: 2px solid #e8e8e8;
+    	width: 95%;
+	}
 }
 
 @media (max-width: 520px) {
@@ -156,6 +159,7 @@
 		margin-top: 5px;
 		margin-left: auto;
     	margin-right: auto;
+    	float: none;
 	}
 	#main .add_to_cart_button {
 		margin-top: 5px;
@@ -198,7 +202,19 @@
 	#main .wrap_post_thumb > img {
     	width: 100%;
     	height: auto;
-    	max-height: 105px;
+	}
+	#main .wrap-main-card > div {
+		padding: 5px 10px 55px;
+    	height: auto;
+    	margin: 5px auto;
+    	border: 2px solid #e8e8e8;
+    	width: 95%;
+	}
+}
+
+@media (min-width: 610px) and (max-width: 767px) {	
+#main .wrap_post_thumb {
+        height: 245px;
 	}
 }
 
@@ -227,13 +243,6 @@
     	margin-bottom: auto;
     	text-align: right;
     	font-size: 16px;
-	}
-	#main .wrap-main-card > div {
-		padding: 5px 10px 55px;
-    	height: 310px;
-    	margin: 5px auto;
-    	border: 2px solid #e8e8e8;
-    	width: 95%;
 	}
 	#main .main-card > a {
 		text-decoration: none;
@@ -319,9 +328,6 @@
     	font-size: 18px;
     	font-family: sans-serif;
     }
-	#main .wrap_post_thumb {
-        max-height: 245px;
-	}
 }
 
 /*Подвал*/
