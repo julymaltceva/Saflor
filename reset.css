@@ -243,7 +243,7 @@
 		width: 100%;
 	}
 	#main .wrap-woo > img {
-		padding-bottom: 15px;
+		padding-bottom: 15px !important;
 	}
 	#main .wrap-main-card {
 		width: 50%;
