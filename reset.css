@@ -189,7 +189,8 @@
     	line-height: 35px !important;
     }
     #main .wrap_exept {
-    	height: 80px;
+    	height: 45px;
+    	font-size: 11px;
     }
 }
 
