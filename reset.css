@@ -303,6 +303,9 @@
     	margin: 0;
     	height: 10px;
     }
+    #main .wrap_delivery > h4 {
+    	font-size: 18px;
+    }
 }
 
 /*Подвал*/
