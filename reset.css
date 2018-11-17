@@ -93,7 +93,7 @@
 		padding: 0;
 	}
 	#carouselExampleIndicators .carousel-inner {
-		min-height: 120px;
+		min-height: 100px;
 		margin: 0;
 		padding: 0;
 	}
@@ -241,7 +241,7 @@
 		display: none;
 	}
 	#main .category {
-	    margin-top: 15px;
+	    margin-top: 10px;
 	}
 	#main .category_title {
 		margin-left: 15px;
@@ -440,7 +440,7 @@
 }
 
 .header-slider .slick-slide {
-    margin: 0px 9px;
+    margin: 0;
     border: none;
     padding: 0;
     height: 100%;
@@ -453,6 +453,7 @@
 #carouselExampleIndicators .slick-dots {
 	text-align: left;
 	padding-left: 15px;
+	bottom: 0;
 }
 
 #carouselExampleIndicators .slick-dots > li {
@@ -467,4 +468,7 @@
 
 #carouselExampleIndicators .slick-dots li.slick-active {
     background: #ac80ba;
+}
+.col_bg_top_menu .navbar {
+    left: -30px;
 }
