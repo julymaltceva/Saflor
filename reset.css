@@ -42,7 +42,7 @@
     	margin: 0;
 	}
 	.container .top-row {
-		height: auto;
+		height: 80px;
 		padding-top: 5px;
     	padding-bottom: 5px;
 	}
@@ -79,7 +79,7 @@
 	}
 	.top-row .phone .wrap_head_tel .h-tel {
     	background: none;
-    	font-size: 14px;
+    	font-size: 16px;
     	float: none;
     	padding: 0;
     	margin: 0;
