@@ -212,9 +212,9 @@
 	#main .wrap-main-card > div {
 		padding: 5px 10px;
     	height: auto;
-    	margin: 5px auto;
+    	margin: auto;
     	border: 2px solid #e8e8e8;
-    	width: 95%;
+    	width: 97%;
 	}
 }
 @media (min-width: 380px) and (max-width: 520px) {
