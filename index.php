@@ -152,10 +152,10 @@
 			</a>
 		</div>
 
-		<div class="row">
+		<div class="row individualny_buket individualny_buket_title">
 			<h2 class="h_c_form"><span>Индивидуальный букет</span></h2>
 		</div>	
-		<div class="row">
+		<div class="row individualny_buket individualny_buket_item">
 			<div class="col-md-6 col-xl-5 order-md-2">
 				<img class="img_right_form" src="<?php echo get_template_directory_uri(); ?>/images/form_k.jpg" alt="image">
 			</div> 
