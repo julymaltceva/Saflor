@@ -44,7 +44,7 @@
 						<?php else : echo esc_attr( get_bloginfo( 'name', 'display' ) ); endif; ?>
 					</a>
 				</div> 
-				<div class="col-12 delivery col-xs-4 d-md-none">  
+				<div class="col-12 delivery col-xs-5 d-md-none">  
 					<p class="top-l-1">Доставка цветов и подарков</p>
 				</div> 
 				<div class="col-md-4 col-xs-4 phone">
