@@ -56,11 +56,12 @@
     .top-row .delivery {
     	flex: none;
     	padding: 0;
-    	margin: auto;
+    	margin: auto 0;
+    	width: 34.5%;
 	}
 	.top-row .delivery .top-l-1 {
-		font-size: 8px;
-		letter-spacing: 0px;
+		font-size: 9px;
+		letter-spacing: -0.5px;
 		display: inline-block;
     	width: 100%;
     	padding: 5px 0;
@@ -343,8 +344,11 @@
     	font-size: 18px;
     	font-family: sans-serif;
     }
-    .wrap_delivery {
+    #main .wrap_delivery {
     margin: 16px 15px 15px 16px;
+	}
+	#main .individualny_buket {
+		display: none;
 	}
 }
 
