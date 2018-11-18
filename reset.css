@@ -226,7 +226,7 @@
 
 @media (max-width: 379px) {
 	#main .wrap_post_thumb > img {
-    	max-width: max-content;
+    	max-width: 110%;
     	width: 120px;
     	height: 120px;
     	padding: 0;
