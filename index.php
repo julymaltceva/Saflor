@@ -92,7 +92,7 @@
 			</a>
 		</div>
 		
-		<div class="icons top_icon tp-2"><i></i><span><i class="unical">Уникальная</i><i class="postcard">открытка</i> в подарок</span></div>
+		<div class="icons top_icon tp-2"><i></i><span><i class="unical">Уникальная</i><i class="post">открытка</i> в подарок</span></div>
 
 		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в шляпных коробках<i></i></h1>
