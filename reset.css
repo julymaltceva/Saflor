@@ -515,7 +515,11 @@
 	    padding: 0;
     	margin: 5px 0;
     }
+    #footer .development {
+		display: none;
+    }
 }
+
 
 .hidden {
 	display: none !important;
