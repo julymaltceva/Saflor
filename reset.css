@@ -410,6 +410,11 @@
 	}
 }
 
+#main .wrap_delivery .symbol {
+	display: none;
+}
+
+
 /*Подвал*/
 
 #footer .top-footer {
