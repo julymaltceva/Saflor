@@ -371,6 +371,13 @@
     #main .tp-2 > i {
 	    background-image: url(/wp-content/themes/main/images/icon2.png);
 	}
+	 #main .tp-2 .unical {
+	 	font-style: normal;
+	 	display: none;
+	}
+	 #main .tp-2 .postcard {
+	 	font-style: normal;
+	}
 	#main .tp-3 > i {
 	    background-image: url(/wp-content/themes/main/images/icon3.png);
 	}
@@ -380,6 +387,7 @@
 	#main .tp-5 > i {
 	    background-image: url(/wp-content/themes/main/images/icon5.png);
 	}
+
 	#main .h_c_form {
 		margin-left: 15px;
     	margin-right: 15px;
