@@ -423,9 +423,10 @@
 	    color: #545454;
 	}
 }
-
-#main .wrap_delivery .symbol {
-	display: none;
+@media (min-width: 768px) {	
+	#main .wrap_delivery .symbol {
+		display: none;
+	}
 }
 
 
