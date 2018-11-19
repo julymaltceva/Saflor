@@ -153,7 +153,7 @@
 			}
 			
 			
-			jQuery('.wrap_post_thumb').zoom();
+			jQuery('.wrap_post_thumb').zoom({ touch:'false' });
 			
 			jQuery('#menu-osnovnoe-menju .menu-item-type-taxonomy .dropdown-toggle').click(function(){
 				
