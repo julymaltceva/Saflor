@@ -386,6 +386,14 @@
     #main .delivery > h2 > span {
 	    font-size: 22px;
     }
+    #main .delivery > h2 > span:before {
+	    display: block;
+    	font-size: 0px;
+    }
+    #main .delivery > h2 > span:after {
+	    display: block;
+    	font-size: 0px;
+    }
     #main .wrap_delivery > p {
     	margin: 0;
     	height: 10px;
