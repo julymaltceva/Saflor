@@ -295,20 +295,22 @@
     	margin: 5px 0;
 	}
 	#main .category_title {
-		margin-left: 15px;
+		margin-left: 10px;
     	margin-top: 0;
     	margin-bottom: 0;
     	font-family: "PFDinTextCompPro";
+    	width: 58.9%;
 	}
 	#main .category > h1 > i {
 		margin-left: -10px;
     	margin-right: -10px;
 	}
-	#main .category > a {
-		margin-top: auto;
-    	margin-bottom: auto;
-    	text-align: right;
-    	font-size: 16px;
+	#main .category-row > a {
+		margin: auto 5px;
+	    text-align: right;
+	    font-size: 16px;
+	    width: 34%;
+}
 	}
 	#main .main-card > a {
 		text-decoration: none;
