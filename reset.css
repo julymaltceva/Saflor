@@ -408,6 +408,20 @@
 	#main .individualny_buket {
 		display: none;
 	}
+	#main .wrap_delivery > h4 {
+		text-align: center;
+    	margin: 0;
+	}
+	#main .wrap_delivery .symbol {
+		text-align: center;
+	    display: inline-block;
+	    width: 100%;
+	    font-size: 40px;
+	    height: 20px;
+	    vertical-align: top;
+	    margin-top: -10px;
+	    color: #545454;
+	}
 }
 
 #main .wrap_delivery .symbol {
