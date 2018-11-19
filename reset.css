@@ -289,7 +289,9 @@
 	}
 	#main .category {
 	    margin-top: 10px;
-	    border: 1px solid #ac80ba;
+	}
+	#main .category-row {
+		border: 1px solid #ac80ba;
     	margin: 5px 0;
 	}
 	#main .category_title {
