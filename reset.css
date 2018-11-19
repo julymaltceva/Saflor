@@ -383,6 +383,9 @@
     	padding: 0;
     	width: 100%;
     }
+    #main .delivery > h2 > span {
+	    font-size: 22px;
+    }
     #main .wrap_delivery > p {
     	margin: 0;
     	height: 10px;
