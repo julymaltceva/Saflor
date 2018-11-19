@@ -403,7 +403,7 @@
     	font-family: sans-serif;
     }
     #main .wrap_delivery {
-    margin: 16px 15px 15px 16px;
+    margin: 0 15px;
 	}
 	#main .individualny_buket {
 		display: none;
