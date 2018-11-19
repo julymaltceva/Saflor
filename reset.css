@@ -213,6 +213,7 @@
     }
     #main .tp-2 > span {
     	line-height: 35px !important;
+    	margin-top: 15px;
     }
     #main .tp-4 > span {
     	line-height: 25px !important;
@@ -310,7 +311,6 @@
 	    text-align: right;
 	    font-size: 16px;
 	    width: 34%;
-}
 	}
 	#main .main-card > a {
 		text-decoration: none;
@@ -377,6 +377,7 @@
 	}
 	 #main .tp-2 .post {
 	 	font-style: normal;
+	 	text-transform: capitalize;
 	}
 	#main .tp-3 > i {
 	    background-image: url(/wp-content/themes/main/images/icon3.png);
