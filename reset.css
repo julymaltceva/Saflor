@@ -329,6 +329,9 @@
 	#main .wrap-main-card {
 		width: 50%;
 	}
+	#main .woocommerce .wrap-main-card {
+		padding-bottom: 0;
+	}
 	#main .wrap_hide_but {
 		text-align: center;
 	}
@@ -437,6 +440,10 @@
 	    vertical-align: top;
 	    margin-top: -10px;
 	    color: #545454;
+	}
+	#main .wrap_w_category {
+		margin-top: 10px;
+    	padding: 0 4px;
 	}
 }
 @media (min-width: 768px) {	
