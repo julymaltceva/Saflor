@@ -64,7 +64,7 @@
 			</div>
 		</div>
 
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Букеты<i></i></h1>
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
@@ -79,7 +79,7 @@
 
 		<div class="icons top_icon tp-1"><i></i><span>БЕСПЛАТНАЯ доставка</span></div>
 		
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Монобукеты<i></i></h1>
 			<a href="/product-category/cvety/monobukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
@@ -94,7 +94,7 @@
 		
 		<div class="icons top_icon tp-2"><i></i><span>Уникальная открытка в подарок</span></div>
 
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в шляпных коробках<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
@@ -109,7 +109,7 @@
 
 		<div class="icons top_icon tp-3"><i></i><span>Все способы ОПЛАТЫ</span></div>
 
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в корзинах<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-korzinah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
@@ -124,7 +124,7 @@
 
 		<div class="icons top_icon tp-4"><i></i><span>Пришлем фото Вашего заказа перед отправкой</span></div>
 
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Ароматы для дома<i></i></h1>
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
@@ -139,7 +139,7 @@
 
 		<div class="icons top_icon tp-5"><i></i><span>100% ГАРАНТИЯ свежести цветов</span></div>
 
-		<div class="row category">
+		<div class="row category category-row">
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Подарки<i></i></h1>
 			<a href="/product-category/cvety/podarki/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
