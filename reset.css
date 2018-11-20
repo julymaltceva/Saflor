@@ -163,10 +163,11 @@
     	text-align: left;
     }
     #main .wrap_exept {
-    	height: 80px;
+    	height: 45px;
     	padding-top: 20px;
     	width: 94%;
     	margin: auto;
+    	overflow: hidden;
     }
     #main .wrap_post_thumb > img {
     	height: 280px;
@@ -234,9 +235,10 @@
     	line-height: 35px !important;
     }
     #main .wrap_exept {
-    	height: 60px;
+    	height: 32px;
     	font-size: 11px;
     	padding: 5px;
+    	overflow: hidden;
     }
 	#main .wrap-main-card > div {
 		padding: 5px;
