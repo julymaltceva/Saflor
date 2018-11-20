@@ -461,13 +461,13 @@
     	margin-right: 15px;
 	}
 	#main .delivery > h2 {
-	    margin: 10px 65px;
+	    margin: 10px 35px;
     	padding: 0;
     	width: 100%;
     }
     #main .delivery > h2 > span {
 	    width: 100%;
-	    font-size: 25px;
+	    font-size: 32px;
     }
     #main .delivery > h2 > span:before {
 	    display: block;
