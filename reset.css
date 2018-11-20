@@ -567,6 +567,14 @@
 	#main .wrap_delivery .symbol {
 		display: none;
 	}
+	.wrap_post_thumb img:hover {
+		transform: scale(1.5);
+	}
+	.wrap_post_thumb img {
+		-webkit-transition: 1s all;
+		-o-transition: 1s all;
+		transition: 1s all;
+	}
 }
 
 
