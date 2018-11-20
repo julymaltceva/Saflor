@@ -514,6 +514,9 @@
 	#main .wpf-search-container .quantity {
 		display: none;
 	}
+	#main .wpf-search-container .yith_wapo_group_total {
+		margin: 0;
+	}
 }
 
 @media (min-width: 768px) {	
