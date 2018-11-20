@@ -550,6 +550,16 @@
 		display: inline-block;
     	text-align: center;
     }
+    #main .woocommerce-cart-form .product-thumbnail {
+    	width: 100%;
+	    padding: 0;
+	    float: none;
+    }
+    #main .woocommerce-cart-form .attachment-woocommerce_thumbnail {
+    	width: 90%;
+	    height: 280px;
+	    max-width: 90%;
+    }
 }
 
 @media (min-width: 768px) {	
