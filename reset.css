@@ -455,6 +455,9 @@
 	    margin: 0;
 	    padding: 0;
 	}
+	#wpis-gallery {
+		display: none;
+	}
 }
 
 @media (min-width: 768px) {	
