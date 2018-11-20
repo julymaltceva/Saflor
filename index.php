@@ -941,10 +941,57 @@
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/nochnoj-zhasmin/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="400" height="400" src="https://sa-flor.ru/wp-content/uploads/2018/11/Avtodiffuzor-gelevyj-Nochnoj-zhasmin-.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/Avtodiffuzor-gelevyj-Nochnoj-zhasmin-.jpg 400w, https://sa-flor.ru/wp-content/uploads/2018/11/Avtodiffuzor-gelevyj-Nochnoj-zhasmin--210x210.jpg 210w" sizes="(max-width: 400px) 100vw, 400px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/Avtodiffuzor-gelevyj-Nochnoj-zhasmin-.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 400px; height: 400px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Ночной жасмин
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">650&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromatizator-dlja-avto/?add-to-cart=3695" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3695" data-product_sku="200-110" aria-label="Добавить &quot;Ночной жасмин&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="3695">Купить в один клик
+							            </a>
+							        </div>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/lakomstva-u-kamina-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="500" height="500" src="https://sa-flor.ru/wp-content/uploads/2018/11/Y8SRYtQw.jpeg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/Y8SRYtQw.jpeg 500w, https://sa-flor.ru/wp-content/uploads/2018/11/Y8SRYtQw-210x210.jpeg 210w" sizes="(max-width: 500px) 100vw, 500px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/Y8SRYtQw.jpeg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 500px; height: 500px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">СМОЛА И ДУБ
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 650&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromaty-dlja-doma/aromaticheskie-svechi-yankee-candle/page/5/?add-to-cart=3461" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3461" data-product_sku="200-002" aria-label="Добавить &quot;СМОЛА И ДУБ&quot; в корзину" rel="nofollow">купить</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="3461">Купить в один клик
+            							</a>
+            						</div>
+								</div>
 							</div>
 						</div>
 					</div>
