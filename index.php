@@ -170,11 +170,11 @@
             							</a>            				
 									</div>
 								</div>
-							</div>
 						</div>
 					</div>
 				</div>			
 			</div>	
+			<!--	<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  -->
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты
