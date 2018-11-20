@@ -461,6 +461,9 @@
 	#wpis-gallery {
 		display: none;
 	}
+	#main .wpf-search-container .product_title {
+		font-size: 20px;
+	}
 }
 
 @media (min-width: 768px) {	
