@@ -517,6 +517,10 @@
 	#main .wpf-search-container .yith_wapo_group_total {
 		margin: 0;
 	}
+	#main .wpf-search-container .price {
+		font-size: 40px;
+    	text-align: center;
+	}
 }
 
 @media (min-width: 768px) {	
