@@ -466,7 +466,8 @@
     	width: 100%;
     }
     #main .delivery > h2 > span {
-	    font-size: 22px;
+	    width: 100%;
+	    font-size: 25px;
     }
     #main .delivery > h2 > span:before {
 	    display: block;
@@ -576,6 +577,12 @@
 	    max-width: 90%;
 	    float: left;
     }
+}
+
+@media (min-width: 338px) and (max-width: 520px) {
+	#main .tp-4 > span {
+		margin-top: 10px;
+	}
 }
 
 @media (min-width: 768px) {	
