@@ -142,7 +142,7 @@
 	}
 	#main .add_to_cart_button {
 		float: none;
-    	margin: 10px;
+    	margin: 10px !important;
 	}	
 	#main .col-xs-12 .activ_cat {
     	float: none;
