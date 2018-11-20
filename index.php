@@ -69,7 +69,7 @@
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-			<div class="woocommerce columns-1">
+	<!--		<div class="woocommerce columns-1">
 				<div class="container wrap-woo">
 					<div id="products-acc-1" class="row slider main_slider columns-1">
 						<div class="wrap-main-card">
@@ -92,17 +92,90 @@
 									<a href="#" class="active_but">+
  									</a>
  									<div class="wrap_hide_but"> 
- 										<a href="https://sa-flor.ru/product/buket-103/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1365" data-product_sku="10-103" aria-label="Добавить &quot;Букет с гвоздикой, фрезией и эустомой&quot; в корзину" rel="nofollow">купить</a>
+ 										<a href="https://sa-flor.ru/product/buket-103/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1365" data-product_sku="10-103" aria-label="Добавить &quot;Букет с гвоздикой, фрезией и эустомой&quot; в корзину" rel="nofollow">купить
+ 										</a>
             							<a class="clickBuyButton button21" href="#" data-productid="1365">Купить в один клик
             							</a>		
+									</div>
+								</div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-047/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/big-6-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/big-6-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/big-6-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/big-6-768x768.jpg 768w, https://sa-flor.ru/wp-content/uploads/2018/09/big-6.jpg 890w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/big-6-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из пионовидной розы Ред Пиано
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 890&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+ 									<a href="#" class="active_but">+
+ 									</a>
+ 									<div class="wrap_hide_but"> 
+ 										<a href="https://sa-flor.ru/product/buket-047/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1242" data-product_sku="10-47" aria-label="Добавить &quot;Букет из пионовидной розы Ред Пиано&quot; в корзину" rel="nofollow">купить
+ 										</a>
+             							<a class="clickBuyButton button21" href="#" data-productid="1242">Купить в один клик
+             							</a>
+									</div>
+								</div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-043/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/DSC_6200-2-2-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/DSC_6200-2-2-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/DSC_6200-2-2-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/DSC_6200-2-2-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/DSC_6200-2-2-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из астр и эустомы
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">3 790&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-043/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1238" data-product_sku="10-43" aria-label="Добавить &quot;Букет из астр и эустомы&quot; в корзину" rel="nofollow">купить
+										</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="1238">Купить в один клик
+            							</a>
+									</div>
+								</div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-051/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/16-2-1-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/16-2-1-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/16-2-1-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/16-2-1-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/16-2-1-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из тюльпанов
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">3 490&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-051/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1246" data-product_sku="10-51" aria-label="Добавить &quot;Букет из тюльпанов&quot; в корзину" rel="nofollow">купить
+										</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="1246">Купить в один клик
+            							</a>            				
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>				
-			</div>
-			<!--	<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  -->
+				</div>			
+			</div>	-->	
+				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты
