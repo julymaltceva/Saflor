@@ -487,6 +487,8 @@
 	}
 	#main .wpf-search-container .product_title {
 		font-size: 20px;
+		margin: 0;
+		padding: 0;
 	}
 	#main .wpf-search-container .m-entry-summary {
 		margin: 0;
@@ -495,8 +497,11 @@
 		margin: 0;
 	}
 	#main .wpf-search-container .pr-content > h2 {
-	display: block;
-    float: none;
+		display: block;
+    	float: none;
+	}
+	#main .wpf-search-container .sku_wrapper {
+		padding-bottom: 10px;
 	}
 }
 
