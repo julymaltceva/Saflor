@@ -401,6 +401,34 @@
 								</div>
 							</div>
 						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-15-malinovyh-pionovidnyh-roz/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="523" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/0753b2a8f5eb35bb38c548157c4d2139-523x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/0753b2a8f5eb35bb38c548157c4d2139-523x550.jpg 523w, https://sa-flor.ru/wp-content/uploads/2018/09/0753b2a8f5eb35bb38c548157c4d2139-200x210.jpg 200w, https://sa-flor.ru/wp-content/uploads/2018/09/0753b2a8f5eb35bb38c548157c4d2139.jpg 570w" sizes="(max-width: 523px) 100vw, 523px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/0753b2a8f5eb35bb38c548157c4d2139-523x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 523px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 55 малиновых пионовидных роз
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">11 190&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-15-malinovyh-pionovidnyh-roz/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1533" data-product_sku="20-49" aria-label="Выбрать опции для &quot;Букет из 55 малиновых пионовидных роз&quot;" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="1533">Купить в один клик
+							            </a>           				
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
