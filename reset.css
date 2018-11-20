@@ -499,6 +499,7 @@
 	#main .wpf-search-container .pr-content > h2 {
 		display: block;
     	float: none;
+    	color: #0000;
 	}
 	#main .wpf-search-container .sku_wrapper {
 		padding-bottom: 10px;
