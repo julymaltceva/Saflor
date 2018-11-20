@@ -69,7 +69,40 @@
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
+			<div class="woocommerce columns-1">
+				<div class="container wrap-woo">
+					<div id="products-acc-1" class="row slider main_slider columns-1">
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-103/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="547" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/20180706_152033-2-1-e1542637588334-547x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/20180706_152033-2-1-e1542637588334-547x550.jpg 547w, https://sa-flor.ru/wp-content/uploads/2018/09/20180706_152033-2-1-e1542637588334-209x210.jpg 209w, https://sa-flor.ru/wp-content/uploads/2018/09/20180706_152033-2-1-e1542637588334-768x772.jpg 768w" sizes="(max-width: 547px) 100vw, 547px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/20180706_152033-2-1-e1542637588334-547x550.jpg" class="zoomImg" style="position: absolute; top: -74.6667px; left: -175.469px; opacity: 0; width: 547px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет с гвоздикой, фрезией и эустомой
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 290&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+ 									</a>
+ 									<div class="wrap_hide_but"> 
+ 										<a href="https://sa-flor.ru/product/buket-103/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1365" data-product_sku="10-103" aria-label="Добавить &quot;Букет с гвоздикой, фрезией и эустомой&quot; в корзину" rel="nofollow">купить</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="1365">Купить в один клик
+            							</a>		
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>				
+			</div>
+			<!--	<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  -->
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты
