@@ -508,6 +508,12 @@
 		padding: 0;
 		margin: 0;
 	}
+	#main .wpf-search-container table > tbody > tr > td:nth-child(1) {
+		display: none;
+	}
+	#main .wpf-search-container .quantity {
+		display: none;
+	}
 }
 
 @media (min-width: 768px) {	
