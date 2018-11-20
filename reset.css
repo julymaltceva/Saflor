@@ -528,6 +528,10 @@
     #main .wpf-search-container .ywapo_group_container {
     	padding: 0;
     }
+    #main .wpf-search-container .wrap_add_one_but {
+    	display: inline-block;
+    	margin: 40px 0 0 5px;
+    }
 }
 
 @media (min-width: 768px) {	
