@@ -331,6 +331,8 @@
 	}
 	#main .wrap-main-card {
 		width: 50%;
+		margin: 0;
+    	padding: 0;
 	}
 	#main .woocommerce .wrap-main-card {
 		padding-bottom: 0;
