@@ -241,6 +241,14 @@
     	padding: 0;
     	object-fit: cover;
 	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 281px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
+	}
 }
 
 @media (min-width: 380px) and (max-width: 420px) {
@@ -250,6 +258,14 @@
     	height: 175px;
     	padding: 0;
     	object-fit: cover;
+	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 350px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
 	}
 }
 
@@ -261,6 +277,14 @@
     	padding: 0;
     	object-fit: cover;
 	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 400px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
+	}
 }
 
 @media (min-width: 521px) and (max-width: 767px) {
@@ -270,6 +294,14 @@
     	height: 250px;
     	padding: 0;
     	object-fit: cover;
+	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 550px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
 	}
 }
 
@@ -447,14 +479,6 @@
 		margin-top: 10px;
     	padding: 0 4px;
 	}
-	#main .wpf-search-container .attachment-shop_single {
-		width: 100%;
-	    max-width: 100%;
-	    height: 281px;
-	    object-fit: contain;
-	    margin: 0;
-	    padding: 0;
-	}
 	#main .slick-list {
 		padding: 0;
 	}
@@ -463,6 +487,9 @@
 	}
 	#main .wpf-search-container .product_title {
 		font-size: 20px;
+	}
+	#main .wpf-search-container .m-entry-summary {
+		margin: 0;
 	}
 }
 
