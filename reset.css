@@ -577,6 +577,13 @@
 	    max-width: 90%;
 	    float: left;
     }
+    #main .wrap_w_category .price {
+    	font-size: 24px;
+    	padding: 0;
+    }
+    #main .wpf-search-container .fp_sidebar {
+    	padding: 0;
+    }
 }
 
 @media (min-width: 338px) and (max-width: 520px) {
