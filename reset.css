@@ -491,6 +491,9 @@
 	#main .wpf-search-container .m-entry-summary {
 		margin: 0;
 	}
+	#main .wpf-search-container .images {
+		margin: 0;
+	}
 }
 
 @media (min-width: 768px) {	
