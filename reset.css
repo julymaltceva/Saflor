@@ -504,6 +504,9 @@
 	#main .wpf-search-container .sku_wrapper {
 		padding-bottom: 10px;
 	}
+	#main .wpf-search-container > p {
+		padding: 0;
+	}
 }
 
 @media (min-width: 768px) {	
