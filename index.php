@@ -725,14 +725,86 @@
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/korzina-cvetov-51-tjulpan/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-30-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-30-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-30-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-30-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-30-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">51 тюльпан в корзине
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">6 390&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/korzina-cvetov-51-tjulpan/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="835" data-product_sku="40-35" aria-label="Добавить &quot;51 тюльпан в корзине&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="835">Купить в один клик
+							            </a>
+							        </div>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/korzina-s-pionami-i-gvozdikoj/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="381" height="381" src="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-21.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-21.jpg 381w, https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-21-210x210.jpg 210w" sizes="(max-width: 381px) 100vw, 381px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-21.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 381px; height: 381px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Корзина с пионами и гвоздикой
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">8 290&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/korzina-s-pionami-i-gvozdikoj/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3290" data-product_sku="40-138" aria-label="Добавить &quot;Корзина с пионами и гвоздикой&quot; в корзину" rel="nofollow">купить
+										</a>
+										<a class="clickBuyButton button21" href="#" data-productid="3290">Купить в один клик
+										</a>
+									</div>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/korzina-s-cvetami-027/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="455" height="455" src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-2.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-2.jpg 455w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-2-210x210.jpg 210w" sizes="(max-width: 455px) 100vw, 455px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-2.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 455px; height: 455px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Корзина с пионовидными розами
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">10 590&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/korzina-s-cvetami-027/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="914" data-product_sku="40-25" aria-label="Добавить &quot;Корзина с пионовидными розами&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="914">Купить в один клик
+							            </a>
+							        </div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -752,8 +824,110 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Ароматы для дома<i></i></h1>
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  
+		<div class="col-12 content_product_new category">
+			<div class="woocommerce columns-1">
+				<div class="container wrap-woo">
+					<div id="products-acc-1" class="row slider main_slider columns-1" data-ride="carousel">
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/cvety-vishni-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="500" height="500" src="https://sa-flor.ru/wp-content/uploads/2018/11/6AdYwMFg.jpeg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/6AdYwMFg.jpeg 500w, https://sa-flor.ru/wp-content/uploads/2018/11/6AdYwMFg-210x210.jpeg 210w" sizes="(max-width: 500px) 100vw, 500px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/6AdYwMFg.jpeg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 500px; height: 500px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">ЦВЕТЫ ВИШНИ
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">1 100&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromaty-dlja-doma/aromaticheskie-svechi-yankee-candle/page/2/?add-to-cart=3545" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3545" data-product_sku="200-041" aria-label="Добавить &quot;ЦВЕТЫ ВИШНИ&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="3545">Купить в один клик
+							            </a>
+							        </div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/legendy-vostoka/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="312" height="312" src="https://sa-flor.ru/wp-content/uploads/2018/11/cd3134adf1bd32fb98d2c3d22abd10df.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/cd3134adf1bd32fb98d2c3d22abd10df.jpg 312w, https://sa-flor.ru/wp-content/uploads/2018/11/cd3134adf1bd32fb98d2c3d22abd10df-210x210.jpg 210w" sizes="(max-width: 312px) 100vw, 312px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/cd3134adf1bd32fb98d2c3d22abd10df.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 312px; height: 312px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Легенды Востока
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">3 100&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromaty-dlja-doma/aromadiffuzory-dlja-domashnej-aromaterapii/?add-to-cart=3632" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3632" data-product_sku="200-079" aria-label="Добавить &quot;Легенды Востока&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="3632">Купить в один клик
+							            </a>
+							        </div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/neroli-4/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="411" height="411" src="https://sa-flor.ru/wp-content/uploads/2018/11/6c6fbbf2c102f0ade649144ce262caa7.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/6c6fbbf2c102f0ade649144ce262caa7.jpg 411w, https://sa-flor.ru/wp-content/uploads/2018/11/6c6fbbf2c102f0ade649144ce262caa7-210x210.jpg 210w" sizes="(max-width: 411px) 100vw, 411px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/6c6fbbf2c102f0ade649144ce262caa7.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 411px; height: 411px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Нероли
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 050&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromaty-dlja-doma/osvezhitel-dlja-vozduha-lampa-berzhe/?add-to-cart=3667" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3667" data-product_sku="200-096" aria-label="Добавить &quot;Нероли&quot; в корзину" rel="nofollow">купить
+										</a>
+    							        <a class="clickBuyButton button21" href="#" data-productid="3667">Купить в один клик
+    							        </a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
+			<!--	<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  -->
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="activ_cat">Смотреть все Ароматы для дома
