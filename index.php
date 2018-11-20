@@ -263,12 +263,148 @@
 					<div id="products-acc-1" class="row slider main_slider columns-1" data-ride="carousel">
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-roz-sorta-jeltoro-085/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474-768x768.jpg 768w, https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474.jpg 1350w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/08-3_DSC00474-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 35 роз сорта Эльторо
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 990&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-roz-sorta-jeltoro-085/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="2302" data-product_sku="20-85" aria-label="Выбрать опции для &quot;Букет из 35 роз сорта Эльторо&quot;" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="2302">Купить в один клик
+							            </a>            				
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-25-zheltyh-tjulpanov/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-155-2-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-155-2-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-155-2-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-155-2-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-155-2-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 25 желтых тюльпанов
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">2 450&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-25-zheltyh-tjulpanov/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1562" data-product_sku="20-29" aria-label="Выбрать опции для &quot;Букет из 25 желтых тюльпанов&quot;" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="1562">Купить в один клик
+							            </a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-55-rozovyh-roz-50-sm/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/70f52088-3950-11e6-843f-002590c469f9-3-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/70f52088-3950-11e6-843f-002590c469f9-3-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/70f52088-3950-11e6-843f-002590c469f9-3-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/70f52088-3950-11e6-843f-002590c469f9-3.jpg 570w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/70f52088-3950-11e6-843f-002590c469f9-3-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 55 розовых роз 50 см
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">4 590&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-55-rozovyh-roz-50-sm/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1535" data-product_sku="20-47" aria-label="Выбрать опции для &quot;Букет из 55 розовых роз 50 см&quot;" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="1535">Купить в один клик
+							            </a>            				
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-17-giacintov/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45-768x768.jpg 768w, https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45.jpg 800w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/monobuket-45-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 35 гиацинтов
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">6 390&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-17-giacintov/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1501" data-product_sku="20-66" aria-label="Выбрать опции для &quot;Букет из 35 гиацинтов&quot;" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="1501">Купить в один клик
+							            </a>
+							        </div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-iz-27-pionovidnoj-malinovoj-rozy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="570" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-570x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-570x550.jpg 570w, https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-124x121.jpg 124w, https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-212x205.jpg 212w, https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-768x742.jpg 768w, https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2.jpg 800w" sizes="(max-width: 570px) 100vw, 570px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/svlt-12106-800x800-2-570x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 570px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из 25 пионовидной малиновой розы
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">6 790&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-iz-27-pionovidnoj-malinovoj-rozy/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1499" data-product_sku="20-64" aria-label="Выбрать опции для &quot;Букет из 25 пионовидной малиновой розы&quot;" rel="nofollow">купить
+										</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="1499">Купить в один клик
+            							</a>           				
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-				<?php echo do_shortcode( '[product_category category="monobukety" per_page="6" columns="1"] ' ); ?>  
+			<!--	<?php echo do_shortcode( '[product_category category="monobukety" per_page="6" columns="1"] ' ); ?>  -->
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/monobukety/" class="activ_cat">Смотреть все Монобукеты
