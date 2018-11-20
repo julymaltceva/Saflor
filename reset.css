@@ -532,6 +532,10 @@
     	display: inline-block;
     	margin: 40px 0 0 5px;
     }
+    #main .wpf-search-container .woocommerce-variation-add-to-cart {
+		display: inline-block;
+    	text-align: center;
+    }
 }
 
 @media (min-width: 768px) {	
