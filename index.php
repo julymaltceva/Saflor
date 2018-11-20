@@ -98,6 +98,10 @@
             							</a>		
 									</div>
 								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
 								<div class="main-card woo_cont-prod">
 									<a href="https://sa-flor.ru/product/buket-047/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
@@ -122,6 +126,10 @@
              							</a>
 									</div>
 								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
 								<div class="main-card woo_cont-prod">
 									<a href="https://sa-flor.ru/product/buket-043/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
@@ -146,6 +154,10 @@
             							</a>
 									</div>
 								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
 								<div class="main-card woo_cont-prod">
 									<a href="https://sa-flor.ru/product/buket-051/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
@@ -170,7 +182,36 @@
             							</a>            				
 									</div>
 								</div>
+							</div>
 						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/buket-053/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/20180622_142942-2-1-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/20180622_142942-2-1-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/20180622_142942-2-1-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/20180622_142942-2-1-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/20180622_142942-2-1-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Букет из малиновых роз и альстромерии
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">3 590&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/buket-053/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1248" data-product_sku="10-53" aria-label="Добавить &quot;Букет из малиновых роз и альстромерии&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="1248">Купить в один клик
+							            </a>
+									</div>
+								</div>
+							</div>
+						</div>	
 					</div>
 				</div>			
 			</div>	
