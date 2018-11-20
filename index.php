@@ -69,7 +69,7 @@
 			<a href="/product-category/cvety/bukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-	<!--		<div class="woocommerce columns-1">
+			<div class="woocommerce columns-1">
 				<div class="container wrap-woo">
 					<div id="products-acc-1" class="row slider main_slider columns-1">
 						<div class="wrap-main-card">
@@ -174,8 +174,7 @@
 						</div>
 					</div>
 				</div>			
-			</div>	-->	
-				<?php echo do_shortcode( '[product_category category="bukety" per_page="6" columns="1"] ' ); ?>  
+			</div>	
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/bukety/" class="activ_cat">Смотреть все Букеты
