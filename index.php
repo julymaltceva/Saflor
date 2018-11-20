@@ -697,6 +697,30 @@
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/korzina-s-rozovymi-i-sirenevymi-rozami-044/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-3-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-3-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-3-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-3.jpg 699w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/10/cvetochnaja-kompozicija-3-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Корзина с розовыми и сиреневыми розами
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">5 990&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/korzina-s-rozovymi-i-sirenevymi-rozami-044/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3028" data-product_sku="40-45" aria-label="Добавить &quot;Корзина с розовыми и сиреневыми розами&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="3028">Купить в один клик
+							            </a>
+							        </div>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-main-card">
