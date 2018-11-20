@@ -129,7 +129,7 @@
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[product_category category="aromaty-dlja-doma" per_page="6" columns="1"] ' ); ?>  
+				<?php echo do_shortcode( '[products ids="3663, 3667, 3681, 3695, 3461" columns="1" orderby="price"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="activ_cat">Смотреть все Ароматы для дома
