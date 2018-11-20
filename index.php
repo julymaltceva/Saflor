@@ -446,7 +446,69 @@
 			<h1 class="col-xs-7 category_title d-block d-xl-none woocommerce-products-header__title page-title">Цветы в шляпных коробках<i></i></h1>
 			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
-		<div class="col-12 content_product_new category"> 
+		<div class="col-12 content_product_new category">
+			<div class="woocommerce columns-1">
+				<div class="container wrap-woo">
+					<div id="products-acc-1" class="row slider main_slider columns-1" data-ride="carousel">
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/cvety-v-korobke-005/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="550" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-57-550x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-57-550x550.jpg 550w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-57-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-57-768x768.jpg 768w" sizes="(max-width: 550px) 100vw, 550px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-57-550x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 550px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Цветочная композиция в шляпной коробке
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">1 890&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/cvety-v-korobke-005/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="932" data-product_sku="30-05" aria-label="Добавить &quot;Цветочная композиция в шляпной коробке&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="932">Купить в один клик
+							            </a>            				
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrap-main-card">
+							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/21-krasnaja-roza-v-korobke-051/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="549" height="550" src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-1-549x550.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-1-549x550.jpg 549w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-1-210x210.jpg 210w, https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-1.jpg 621w" sizes="(max-width: 549px) 100vw, 549px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/09/cvetochnaja-kompozicija-40-1-549x550.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 549px; height: 550px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">21 красная роза в коробке
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">3 190&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="https://sa-flor.ru/product/21-krasnaja-roza-v-korobke-051/" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1042" data-product_sku="30-51" aria-label="Добавить &quot;21 красная роза в коробке&quot; в корзину" rel="nofollow">купить
+										</a>
+            							<a class="clickBuyButton button21" href="#" data-productid="1042">Купить в один клик
+            							</a>            				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
 				<?php echo do_shortcode( '[product_category category="cvety-v-shljapnyh-korobkah" per_page="6" columns="1"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
