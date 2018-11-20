@@ -345,6 +345,9 @@
 	#main .category {
 	    margin-top: 10px;
 	}
+	#main .category > a {
+		margin: 0;
+	}
 	#main .category-row {
 		border: 1px solid #ac80ba;
     	margin: 5px 0;
@@ -400,7 +403,7 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 15px;
+    margin-top: 5px;
     width: 100%;
 	}
 	#main .tp-1 > i {
