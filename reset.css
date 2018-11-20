@@ -556,9 +556,10 @@
 	    float: none;
     }
     #main .woocommerce-cart-form .attachment-woocommerce_thumbnail {
-    	width: 90%;
-	    height: 280px;
+    	width: 40%;
+	    height: auto;
 	    max-width: 90%;
+	    float: left;
     }
 }
 
