@@ -179,6 +179,16 @@
     	border: 2px solid #e8e8e8;
     	width: 100%;
 	}
+	#main .wpf-search-container .single_add_to_cart_button {
+    	float: none;
+    	margin: 0;
+    }
+    #main .wpf-search-container .clickBuyButton {
+    	float: none;
+    	margin: 15px;
+    	border: none;
+    	margin-bottom: 13px;
+    }
 }
 
 @media (max-width: 520px) {
@@ -231,6 +241,10 @@
     	border: 2px solid #e8e8e8;
     	width: 100%;
 	}
+	#main .wpf-search-container .single_add_to_cart_button {
+    	float: none;
+    	margin: 5px 0 0 0;
+    }
 }
 
 @media (max-width: 380px) {
