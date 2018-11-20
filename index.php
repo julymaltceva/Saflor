@@ -914,6 +914,29 @@
 						</div>
 						<div class="wrap-main-card">
 							<div>
+								<div class="main-card woo_cont-prod">
+									<a href="https://sa-flor.ru/product/lampe-berger-botanija/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+										<div class="wrap_post_thumb" style="position: relative; overflow: hidden;">
+											<img width="270" height="467" src="https://sa-flor.ru/wp-content/uploads/2018/11/c2a16e80bb382340b0fbbeb69bdc4da7.png" class="attachment-large size-large wp-post-image" alt="" srcset="https://sa-flor.ru/wp-content/uploads/2018/11/c2a16e80bb382340b0fbbeb69bdc4da7.png 270w, https://sa-flor.ru/wp-content/uploads/2018/11/c2a16e80bb382340b0fbbeb69bdc4da7-121x210.png 121w" sizes="(max-width: 270px) 100vw, 270px">
+											<img src="https://sa-flor.ru/wp-content/uploads/2018/11/c2a16e80bb382340b0fbbeb69bdc4da7.png" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 270px; height: 467px; border: none; max-width: none; max-height: none;">
+										</div>
+										<div class="wrap_exept">Lampe Berger «Ботания»
+										</div>	
+										<span class="price">
+											<span class="woocommerce-Price-amount amount">5 200&nbsp;
+												<span class="woocommerce-Price-currencySymbol"> руб
+												</span>
+											</span>
+										</span>
+									</a>
+									<a href="#" class="active_but">+
+									</a>
+									<div class="wrap_hide_but"> 
+										<a href="/product-category/aromalampy/?add-to-cart=3681" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3681" data-product_sku="200-103" aria-label="Добавить &quot;Lampe Berger &quot;Ботания&quot;&quot; в корзину" rel="nofollow">купить
+										</a>
+							            <a class="clickBuyButton button21" href="#" data-productid="3681">Купить в один клик</a>
+							        </div>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-main-card">
