@@ -584,6 +584,14 @@
     #main .wpf-search-container .fp_sidebar {
     	padding: 0;
     }
+    .wrap_post_thumb img:hover {
+		transform: scale(1.1);
+	}
+	.wrap_post_thumb img {
+		-webkit-transition: 1s all;
+		-o-transition: 1s all;
+		transition: 1s all;
+	}
 }
 
 @media (min-width: 338px) and (max-width: 520px) {
