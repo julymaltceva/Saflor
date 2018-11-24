@@ -595,10 +595,24 @@
 		font-size: 11px;
 		font-family: sans-serif;
 	}
+	.all_gifts > h1 {
+		margin: 0;
+	}
+	.wrap_cat_gifts {
+		padding: 5px 0;
+	}
+	.woocommerce .slick-current {
+		border: none;
+	    margin: 0;
+	    padding: 5px 10px;
+	}
 }
 
 @media (min-width: 348px) and (max-width: 767px) {
-	.textwidget .postcard, .shipping {
+	.textwidget .postcard {
+		padding-top: 25px;
+	}
+	.textwidget .shipping {
 		padding-top: 25px;
 	}
 }
