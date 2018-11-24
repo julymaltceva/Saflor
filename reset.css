@@ -591,6 +591,9 @@
 		-o-transition: 1s all;
 		transition: 1s all;
 	}
+	.form-control {
+		font-size: 12px;
+	}
 }
 
 @media (min-width: 338px) and (max-width: 520px) {
