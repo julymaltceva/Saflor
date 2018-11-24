@@ -196,6 +196,12 @@
 
 @media (max-width: 520px) {
 	#main .clickBuyButton {
+		margin-top: -5px;
+		margin-left: auto;
+    	margin-right: auto;
+    	float: none;
+	}
+	.woocommerce-variation-add-to-cart .clickBuyButton {
 		margin-top: 5px;
 		margin-left: auto;
     	margin-right: auto;
@@ -642,7 +648,7 @@
 	.wrap_cat_gifts {
 		padding: 5px 0;
 	}
-	.woocommerce .slick-current {
+	.woocommerce .slick-active {
 		border: none;
 	    margin: 0;
 	    padding: 5px 10px;
@@ -770,6 +776,15 @@
     #footer .development {
 		display: none;
     }
+    .woocommerce .slick-dots > li.slick-active {
+	margin: 0 5px;
+    padding: 0;
+    border: 2px solid #ac80ba;
+    background: #ac80ba;
+	}
+	.pr-content {
+		width: 60px;
+	}
 }
 
 
