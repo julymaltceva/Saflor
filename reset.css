@@ -597,6 +597,12 @@
 	}
 }
 
+@media (min-width: 348px) and (max-width: 767px) {
+	.textwidget .postcard, .shipping {
+		padding-top: 25px;
+	}
+}
+
 @media (min-width: 338px) and (max-width: 520px) {
 	#main .tp-4 > span {
 		margin-top: 10px;
