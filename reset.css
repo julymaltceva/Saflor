@@ -53,23 +53,22 @@
 	}
 	.top-logo img {
     	width: 70px;
-    	height: 70px;
     }
     .top-row .delivery {
     	flex: none;
 	    padding: 0;
-	    width: 37%;
-	    margin: auto 0 auto 5px;
+	    width: 41%;
+	    margin: auto 0;
 	}
 	.top-row .delivery .top-l-1 {
-		font-size: 9px;
+		font-size: 11px;
 		letter-spacing: -0.5px;
 		display: inline-block;
     	width: 100%;
     	padding: 5px 0;
 	}
 	.top-row .phone {
-		margin: auto 0 auto 5px;
+		margin: auto 0;
 	    padding: 0;
 	    text-align: center;
 	    width: 34%;
@@ -382,6 +381,7 @@
 	    padding-right: 15px;
     	padding-left: 15px;
     	margin: 0;
+    	left: 0;
 	}
 	#main .wrap-woo > img {
 		padding-bottom: 15px;
