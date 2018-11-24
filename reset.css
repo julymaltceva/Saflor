@@ -591,8 +591,9 @@
 		-o-transition: 1s all;
 		transition: 1s all;
 	}
-	.form-control {
-		font-size: 12px;
+	.form-control option {
+		font-size: 11px;
+		font-family: sans-serif;
 	}
 }
 
