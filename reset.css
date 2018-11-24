@@ -321,7 +321,7 @@
     	padding: 0;
     	object-fit: cover;
     	display: block;
-    	height: 350px;
+    	height: 370px;
     }
     .wrap-woo .slick-track {
     	margin-bottom: 45px;
@@ -351,7 +351,7 @@
     	padding: 0;
     	object-fit: cover;
     	display: block;
-    	height: 310px;
+    	height: 350px;
 	}
 	#main .related .wrap_post_thumb > img {
 		max-width: none;
@@ -359,10 +359,10 @@
     	padding: 0;
     	object-fit: cover;
     	display: block;
-    	height: 350px;
+    	height: 460px;
     }
     .wrap-woo .slick-track {
-    	margin-bottom: 120px;
+    	margin-bottom: 155px;
     
 	}
 	#main .wpf-search-container .attachment-shop_single {
@@ -377,7 +377,7 @@
 
 @media (min-width: 521px) and (max-width: 767px) {
 	#main .wrap_post_thumb > img {
-    	height: 250px;
+    	height: 340px;
     	max-width: none;
     	width: 100%;
     	padding: 0;
@@ -680,6 +680,9 @@
 		margin-bottom: 0;
 	    padding-bottom: 0;
 	    margin-top: 25px;
+	}
+	#main .has-post-thumbnail {
+		margin-left: 15px;
 	}
 }
 
