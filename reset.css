@@ -948,7 +948,6 @@
 	}
 }
 
-
 .hidden {
 	display: none !important;
 }
@@ -996,12 +995,26 @@ margin-left: 15px;
 
 /*Корзина*/
 
-@media (max-width: 767px) {
+@media (max-width: 380px) {
 	.woocommerce-cart h1 {
 		margin: 0 0 10px 0;
 	}
-	.m-emty-cart-button .button {
+	.woocommerce-cart .m-emty-cart-button {
+		margin-bottom: 10px;
+	}
+	.woocommerce-cart .m-emty-cart-button .button {
 		margin: 0;
+	}
+	.woocommerce-cart .woocommerce-cart-form .product-name {
+		margin: auto 0;
+		width: 175px;
+	}
+	.product-quantity .woocommerce-cart-form .product-quantity {
+	    margin-top: -30px;
+	}
+	.product-quantity .woocommerce-cart-form .product-subtotal {
+		top: -80px;
+		margin-left: auto;
 	}
 }
 	
