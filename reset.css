@@ -491,7 +491,7 @@
     	padding: 0;
     	object-fit: cover;
     	display: block;
-    	height: 350px;
+    	height: 445px;
 	}
 	#main .related .wrap_post_thumb > img {
 		max-width: none;
@@ -499,10 +499,10 @@
     	padding: 0;
     	object-fit: cover;
     	display: block;
-    	height: 460px;
+    	height: 615px;
     }
     .wrap-woo .slick-track {
-    	margin-bottom: 155px;
+    	margin-bottom: 225px;
     
 	}
 	#main .wpf-search-container .attachment-shop_single {
