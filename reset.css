@@ -520,6 +520,19 @@
     	margin: auto;
     	overflow: hidden;
     }
+    #main .wrap_hide_but .clickBuyButton {
+		margin: -4px auto 0 auto;
+	    float: none;
+	}
+	#main .add_to_cart_button {
+		float: none;
+    	width: 110px;
+    	margin: 5px auto 0 auto !important;
+	}
+	.wpf-search-container .wrap-ordering {
+		padding: 0;
+		height: auto;
+	}
 }
 
 @media (max-width: 767px) {		
