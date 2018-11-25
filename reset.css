@@ -401,11 +401,10 @@
 	    margin-bottom: 13px;
 	}
 	#main .wrap_exept {
-    	height: 45px;
-    	padding-top: 20px;
-    	width: 94%;
-    	margin: auto;
-    	overflow: hidden;
+	    height: 20px;
+	    font-size: 11px;
+	    padding: 5px;
+	    overflow: hidden;
     }
     #main .wrap_hide_but .clickBuyButton {
 		margin: -5px auto 0 auto;
@@ -978,4 +977,8 @@
 }
 .wrap_post_thumb {
 	overflow: hidden;
+}
+
+#main .has-post-thumbnail {
+margin-left: 15px;
 }
