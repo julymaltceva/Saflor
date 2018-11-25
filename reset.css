@@ -131,17 +131,7 @@
 	}
 }
 
-@media (min-width: 521px) and (max-width: 767px) {	
-	#main .clickBuyButton {
-		float: none;
-    	margin: 10px;
-    	border: none;
-    	margin-bottom: 13px;
-	}
-	#main .add_to_cart_button {
-		float: none;
-    	margin: 10px !important;
-	}	
+@media (min-width: 521px) and (max-width: 767px) {		
 	#main .col-xs-12 .activ_cat {
     	float: none;
     	width: 100%;
@@ -159,13 +149,6 @@
         color: rgb(166, 119, 181);
         font-size: 36px;
     	text-align: left;
-    }
-    #main .wrap_exept {
-    	height: 45px;
-    	padding-top: 20px;
-    	width: 94%;
-    	margin: auto;
-    	overflow: hidden;
     }
     #main .wrap_post_thumb > img {
     	height: 280px;
@@ -375,14 +358,93 @@
 	}
 }
 
-@media (min-width: 521px) and (max-width: 767px) {
+@media (min-width: 521px) and (max-width: 609px) {
 	#main .wrap_post_thumb > img {
-    	height: 340px;
+    	height: 260px;
     	max-width: none;
     	width: 100%;
     	padding: 0;
     	object-fit: cover;
     	display: block;
+	}
+	#main .slick-current .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 350px;
+	}
+	#main .related .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 460px;
+    }
+    .wrap-woo .slick-track {
+    	margin-bottom: 155px;
+	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 470px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
+	}
+	#main .wpf-search-container .wrap_add_one_but .clickBuyButton {
+	    float: none;
+	    margin: 15px;
+	    border: none;
+	    margin-bottom: 13px;
+	}
+	#main .wrap_exept {
+    	height: 45px;
+    	padding-top: 20px;
+    	width: 94%;
+    	margin: auto;
+    	overflow: hidden;
+    }
+    #main .wrap_hide_but .clickBuyButton {
+		margin: -5px auto 0 auto;
+	    float: none;
+	}
+	#main .add_to_cart_button {
+		float: none;
+    	width: 110px;
+    	margin: 5px auto 0 auto !important;
+	}
+}
+
+@media (min-width: 610px) and (max-width: 700px) {
+	#main .wrap_post_thumb > img {
+    	height: 300px;
+    	max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+	}
+	#main .slick-current .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 350px;
+	}
+	#main .related .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 460px;
+    }
+    .wrap-woo .slick-track {
+    	margin-bottom: 155px;
 	}
 	#main .wpf-search-container .attachment-shop_single {
 		width: 100%;
@@ -392,11 +454,75 @@
 	    margin: 0;
 	    padding: 0;
 	}
+	#main .wrap_exept {
+    	height: 45px;
+    	padding-top: 20px;
+    	width: 94%;
+    	margin: auto;
+    	overflow: hidden;
+    }
+}
+
+@media (min-width: 701px) and (max-width: 767px) {
+	#main .wrap_post_thumb > img {
+    	height: 340px;
+    	max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+	}
+	#main .slick-current .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 350px;
+	}
+	#main .related .wrap_post_thumb > img {
+		max-width: none;
+    	width: 100%;
+    	padding: 0;
+    	object-fit: cover;
+    	display: block;
+    	height: 460px;
+    }
+    .wrap-woo .slick-track {
+    	margin-bottom: 155px;
+    
+	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 550px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
+	}
+	#main .wrap_exept {
+    	height: 45px;
+    	padding-top: 20px;
+    	width: 94%;
+    	margin: auto;
+    	overflow: hidden;
+    }
+        float: none;
+    width: 110px;
+    margin: 5px auto 0 auto !important;
 }
 
 @media (min-width: 610px) and (max-width: 767px) {	
-#main .wrap_post_thumb {
+	#main .wrap_post_thumb {
         height: 245px;
+	}
+	#main .wpf-search-container .attachment-shop_single {
+		width: 100%;
+	    max-width: 100%;
+	    height: 550px;
+	    object-fit: contain;
+	    margin: 0;
+	    padding: 0;
 	}
 }
 
@@ -680,9 +806,6 @@
 		margin-bottom: 0;
 	    padding-bottom: 0;
 	    margin-top: 25px;
-	}
-	#main .has-post-thumbnail {
-		margin-left: 15px;
 	}
 }
 
