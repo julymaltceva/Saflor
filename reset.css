@@ -419,7 +419,7 @@
 
 @media (min-width: 610px) and (max-width: 700px) {
 	#main .wrap_post_thumb > img {
-    	height: 300px;
+    	height: 305px;
     	max-width: none;
     	width: 100%;
     	padding: 0;
@@ -455,10 +455,11 @@
 	}
 	#main .wrap_exept {
     	height: 20px;
-    	padding-top: 20px;
-    	width: 94%;
-    	margin: auto;
-    	overflow: hidden;
+	    padding: 5px;
+	    width: 94%;
+	    margin: auto;
+	    overflow: hidden;
+	    font-size: 12px;
     }
     #main .wrap_hide_but .clickBuyButton {
 		margin: -5px auto 0 auto;
