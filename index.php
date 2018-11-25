@@ -84,7 +84,7 @@
 			<a href="/product-category/cvety/monobukety/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[products ids="2302, 1562, 1535, 1501, 1499, 1533" columns="1" orderby="price"] ' ); ?>  
+				<?php echo do_shortcode( '[products ids="1579, 1530, 4120, 2970, 1535, 1490" columns="1" orderby="price"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/monobukety/" class="activ_cat">Смотреть все Монобукеты
@@ -99,7 +99,7 @@
 			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[products ids="932, 1042, 584, 935, 975, 957" columns="1" orderby="price"] ' ); ?>  
+				<?php echo do_shortcode( '[products ids="932, 1042, 584, 1007, 975, 957" columns="1" orderby="price"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/cvety-v-shljapnyh-korobkah/" class="activ_cat">Смотреть все Цветы в шляпных коробках
@@ -129,7 +129,7 @@
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="col-xs-4 activ_cat">Смотреть все</a>
 		</div>
 		<div class="col-12 content_product_new category"> 
-				<?php echo do_shortcode( '[products ids="3545, 3663, 3667, 3681, 3695, 3461" columns="1" orderby="price"] ' ); ?>  
+				<?php echo do_shortcode( '[products ids="3545, 3729, 3667, 3571, 3695, 3461" columns="1" orderby="price"] ' ); ?>  
 		</div>
 		<div class="col-xs-12 category">
 			<a href="/product-category/cvety/aromaty-dlja-doma/" class="activ_cat">Смотреть все Ароматы для дома
