@@ -751,6 +751,7 @@
 	#main .wpf-search-container .price {
 		font-size: 40px;
     	text-align: center;
+    	padding-top: 0;
 	}
 	#main .wpf-search-container .yith_wapo_keep_show {
 		margin: 0 auto;
@@ -992,3 +993,15 @@
 #main .has-post-thumbnail {
 margin-left: 15px;
 }
+
+/*Корзина*/
+
+@media (max-width: 767px) {
+	.woocommerce-cart h1 {
+		margin: 0 0 10px 0;
+	}
+	.m-emty-cart-button .button {
+		margin: 0;
+	}
+}
+	
