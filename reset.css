@@ -677,6 +677,20 @@
     	width: 55%;
     	height: 100%;
     }
+    #main .tp-4 > span {
+    	font-size: 18px;
+    	font-family: "PFDinTextCondPro";
+    	color: rgb(0, 0, 0);
+    	text-align: left;
+    	line-height: 35px;
+    	display: inline-block;
+    	vertical-align: top;
+    	letter-spacing: 0.3px;
+    	position: relative;
+    	float: none;
+    	width: 55%;
+    	height: 100%;
+    }
     #main .tp-2 > i {
 	    background-image: url(/wp-content/themes/main/images/icon2.png);
 	}
@@ -888,7 +902,14 @@
 		transition: 1s all;
 	}
 }
-
+@media (max-width: 360px) {
+	.archive .wrap_w_category .term-description {
+		margin-top: 75px;
+	}
+	.archive .wrap_w_category .wrap_category {
+		width: 80%;
+	}
+}
 
 /*Подвал*/
 
@@ -1062,9 +1083,24 @@ margin-left: 15px;
 		width: auto !important;
 		width: 50% !important;
 	}
-	.woocommerce-cart .woocommerce-cart-form__cart-item .product-name > a {
+	.woocommerce-cart .woocommerce-cart-form__cart-item .product-name > a, .woocommerce-cart .woocommerce-cart-form__cart-item .product-name {
 		line-height: 1.0em !important;
 		font-size: 18px;
+	}
+	.woocommerce .woocommerce-cart-form .button {
+		margin-right: 0;
+	}
+	.woocommerce .woocommerce-cart-form #coupon_code {
+		margin-left: 0;
+	}
+	.woocommerce-page table.shop_table_responsive tr td {
+		text-align: center !important;
+	}
+	.woocommerce form.woocommerce-cart-form table.shop_table .product-subtotal {
+		padding-right: 0;
+	}
+	.woocommerce table.shop_table td {
+		padding: 9px 0; 
 	}
 	.woocommerce-cart .woocommerce-cart-form__cart-item .product-quantity {
 	    margin-top: -60px !important;
