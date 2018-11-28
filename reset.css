@@ -902,9 +902,10 @@
 		transition: 1s all;
 	}
 }
+
 @media (max-width: 360px) {
 	.archive .wrap_w_category .term-description {
-		margin-top: 75px;
+		margin-top: 70px;
 	}
 	.archive .wrap_w_category .wrap_category {
 		width: 80%;
