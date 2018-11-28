@@ -1001,13 +1001,10 @@
 		display: none;
     }
     .woocommerce .slick-dots > li.slick-active {
-	margin: 0 5px;
-    padding: 0;
-    border: 2px solid #ac80ba;
-    background: #ac80ba;
-	}
-	.pr-content {
-		width: 60px;
+		margin: 0 5px;
+	    padding: 0;
+	    border: 2px solid #ac80ba;
+	    background: #ac80ba;
 	}
 }
 
